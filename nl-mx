@@ -16,7 +16,6 @@
       "latitude":"",
       "longitude":"",
       "validateByStaff":false,
-      "letter":"<p>Information and description</p>",
       "completed":false,
       "completedCount":0,
       "completedeDate":"",
