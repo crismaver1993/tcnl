@@ -4,6 +4,7 @@
       "qrUrl":"",
       "synchronized":false,
       "name":"",
+      "routeName": "",
       "cover":"",
       "youtubeVideo":"",
       "stars":5,
