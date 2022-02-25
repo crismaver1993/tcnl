@@ -26,10 +26,7 @@
       "isFree":true,
       "isPetFriendly":false,
       "rappelling":false,
-      "recommendedEquipment":[
-         "Casco",
-         "Botiquin"
-      ],
+      "recommendations": "",
       "high":"",
       "location":"",
       "onlyOneWayDistance":"",
