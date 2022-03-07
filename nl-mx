@@ -35,7 +35,43 @@
       "riseTime":"4 hrs",
       "difficulty":"Intermedia",
       "difficultyImage":"https://cldup.com/-UsIdAgFH0.png",
-      "warnings":[1,2,3,4,5,6,7,8,9],
+      "warnings":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9
+      ],
+      "thingsToTake":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergencyKit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
       "agencies":[
          {
             "name":"TCNL",
@@ -75,14 +111,44 @@
       "isFree":true,
       "isPetFriendly":false,
       "rappelling":false,
-      "recommendations":"<p><strong>&iquest;CU&Aacute;L ES LA VESTIMENTA?</strong><br><br>Tener la ropa adecuada para cualquier tipo de cerro es s&uacute;mamente importante. Sigue nuestras recomendaciones para evitar riesgos por falta de preparaci&oacute;n.<br><br>Gorro o sombrero<br>Buff para el cuello<br>Manga larga<br>Pantal&oacute;n largo<br>Botas/tenis de hike<br>Bastones (opcional)<br><br><br><strong>&iquest;QU&Eacute; TENGO QUE EMPACAR?</strong><br><br>La siguiente lista incluye comida y herramientas indispensables para cualquier recorrido. Debes acostumbrar no hacer ning&uacute;n recorrido sin incluir todo lo mencionado.<br><br>3 litros de agua<br>Wikiloc descargado<br>Snacks salados<br>Snacks dulces<br>Fruta fresca<br>Electrolitos<br>Bolsa de basura<br>Botiqu&iacute;n m&eacute;dico<br>Silvato<br>Bloqueador solar<br><br><br><strong>KIT DE EMERGENCIAS</strong><br><br>Tener un botiqu&iacute;n m&eacute;dico junto con otros objetos indispensables puede salvar tu vida o la de alguien m&aacute;s. Procura siempre llevar lo siguiente:<br><br>Agua extra (1 o 2 litros m&aacute;s)<br>Refugio temporal (manta t&eacute;rmica, lona, bivy)<br>L&aacute;mpara, pilas extra y bater&iacute;a port&aacute;til<br>Cordino y navaja</p>",
+      "recommendations":"",
       "high":"1700 msnm",
       "onlyOneWayDistance":"6 km",
       "slope":"800m",
       "riseTime":"2.5 hrs",
       "difficulty":"Moderado",
       "difficultyImage":"https://cldup.com/D3kLjRSiBE.png",
-      "warnings":[2,7,9],
+      "warnings":[
+         2,
+         7,
+         9
+      ],
+       "thingsToTake":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergencyKit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
       "agencies":[
          {
             "name":"TCNL",
