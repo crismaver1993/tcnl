@@ -25,12 +25,12 @@ Información para app de TCNL
 2. Wikiloc descargado
 3. Snacks salados
 4. Snacks dulces
-5 .Fruta fresca
+5. Fruta fresca
 6. Electrolitos
 7. Bolsa de basura
 8. Botiquín médico
 9. Silvato
-10 .Bloqueador solar
+10. Bloqueador solar
 
 
 # Clothes
