@@ -17,3 +17,38 @@ Información para app de TCNL
 7. No phone service
 8. Hiedra Venenosa,
 9. Expuesto al sol
+
+
+# Things to take 
+
+1. 3 litros de agua
+2. Wikiloc descargado
+3. Snacks salados
+4. Snacks dulces
+5 .Fruta fresca
+6. Electrolitos
+7. Bolsa de basura
+8. Botiquín médico
+9. Silvato
+10 .Bloqueador solar
+
+
+# Clothes
+
+
+1. Gorro o sombrero
+2. Buff para el cuello
+4. Manga larga
+5. Pantalón largo
+6. Botas/tenis de hike
+7. Bastones (opcional)
+8. Bastones (obligatorio)
+
+
+# Emergency Kit
+
+
+1. Agua extra (1 o 2 litros más)
+2. Refugio temporal (manta térmica, lona, bivy)
+3. Lámpara, pilas extra y batería portátil
+4. Cordino y navaja
