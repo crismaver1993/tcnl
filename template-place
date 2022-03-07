@@ -34,10 +34,7 @@
       "riseTime":"",
       "difficulty":"",
       "difficultyImage":"",
-      "warnings":[
-         "Osos",
-         "Serpientes"
-      ],
+      "warnings":[1,2],
       "agencies":[
          {
             "name":"TCNL",
