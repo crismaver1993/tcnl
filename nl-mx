@@ -35,17 +35,7 @@
       "riseTime":"4 hrs",
       "difficulty":"Intermedia",
       "difficultyImage":"https://cldup.com/-UsIdAgFH0.png",
-      "warnings":[
-         "oso:1",
-         "serpiente:2",
-         "hipotermia:3",
-         "chorreadero:4",
-         "precipio:5",
-         "mal de altura:6",
-         "no phone service:7",
-         "hiedra venenosa:8",
-         "expuesto al sol:9"
-      ],
+      "warnings":[1,2,3,4,5,6,7,8,9],
       "agencies":[
          {
             "name":"TCNL",
@@ -92,11 +82,7 @@
       "riseTime":"2.5 hrs",
       "difficulty":"Moderado",
       "difficultyImage":"https://cldup.com/D3kLjRSiBE.png",
-      "warnings":[
-         "serpiente:2",
-         "no phone service:7",
-         "expuesto al sol:9"
-      ],
+      "warnings":[2,7,9],
       "agencies":[
          {
             "name":"TCNL",
