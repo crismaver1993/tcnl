@@ -1,8 +1,26 @@
 # TrekkingCrewNl
 Información para app de TCNL 
 
+# Level List
+1. Novato
+2. Principiante
+3. Intermedio
+4. Profesional
+
+# Challenge List
+1. 4 veces por un mes
+2. Subir 2 veces por semana
+3. Subir 12 cerros en un año
+4. Subir 2 cerros nuevos por mes
+
+# Medal List
+1. Ascenso
+2. Constancia
+3. Rapidez
+
 
 # Mountain List
+0. All
 1. Cerro la Silla - Pico Norte (Camino de los Elefantes) - Monterrey, Nuevo Leòn
 2. La Popa - Mina, Nuevo Leòn
 
