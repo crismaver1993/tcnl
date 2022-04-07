@@ -1,7 +1,7 @@
 [
    {
       "id":1,
-      "mountain_ids":[
+      "mountainIds":[
          0
       ],
       "levels":[
@@ -14,11 +14,11 @@
       ],
       "name":"Ascenso",
       "description":"Cuando logras alcanzar la cumbre, esta medalla es la que respaldará tu logro",
-      "best_time":90
+      "bestTime":90
    },
    {
       "id":2,
-      "mountain_ids":[
+      "mountainIds":[
          0
       ],
       "levels":[
@@ -31,6 +31,6 @@
       ],
       "name":"Constancia",
       "description":"Cuando no dejas pasar mucho tiempo y estas subiendo más cumbres",
-      "best_time":90
+      "bestTime":90
    }
 ]
