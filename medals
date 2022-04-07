@@ -1,0 +1,22 @@
+[
+   {
+      "id":1,
+      "mountainIds":[
+         0
+      ],
+      "levels":[
+         1,
+         2,
+         3
+      ],
+      "name":"Medalla1",
+      "description":"Cuando logras alcanzar la cumbre, esta medalla es la que respaldará tu logro",
+      "best_time":90,
+      "isFeatured":true,
+      "web":"",
+      "cover":"",
+      "completedCount":0,
+      "validateByStaff":false,
+      "sponsoredBy":""
+   }
+]
