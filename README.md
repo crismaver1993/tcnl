@@ -30,7 +30,7 @@ Información para app de TCNL
 2. Serpiente
 3. Hipotermia
 4. Chorreadero
-5. Precipios
+5. Precipicios
 6. Mal de altura 
 7. No phone service
 8. Hiedra Venenosa,
