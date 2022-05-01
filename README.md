@@ -32,7 +32,7 @@ Información para app de TCNL
 4. Chorreadero
 5. Precipicios
 6. Mal de altura 
-7. No phone service
+7. Sin servicio de teléfono 
 8. Hiedra Venenosa,
 9. Expuesto al sol
 
