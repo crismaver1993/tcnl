@@ -2,6 +2,7 @@
    {
       "id":1,
       "title":"Gorro o Sombrero",
+      "img":"",
       "description":"",
       "afiliates":[
          1
@@ -16,6 +17,7 @@
    {
       "id":2,
       "title":"Buff para el cuello",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -30,6 +32,7 @@
    {
       "id":3,
       "title":"Manga larga",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -44,6 +47,7 @@
    {
       "id":4,
       "title":"Pantalón largo",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -58,6 +62,7 @@
    {
       "id":5,
       "title":"Botas/tenis de hike",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -72,6 +77,7 @@
    {
       "id":6,
       "title":"Bastones (opcional)",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -86,6 +92,7 @@
    {
       "id":7,
       "title":"Bastones (obligatorio)",
+      "img":"",
       "description":"",
       "afiliates":[
          
