@@ -1,0 +1,100 @@
+[
+   {
+      "id":1,
+      "title":"Gorro o Sombrero",
+      "description":"",
+      "afiliates":[
+         1
+      ],
+      "partners":[
+         1
+      ],
+      "stores":[
+         1
+      ]
+   },
+   {
+      "id":2,
+      "title":"Buff para el cuello",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":3,
+      "title":"Manga larga",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":4,
+      "title":"Pantalón largo",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":5,
+      "title":"Botas/tenis de hike",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":6,
+      "title":"Bastones (opcional)",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":7,
+      "title":"Bastones (obligatorio)",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   }
+]
