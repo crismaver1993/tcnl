@@ -2,6 +2,7 @@
    {
       "id":1,
       "title":"Agua",
+      "img":"",
       "description":"<p>La regla general para cu&aacute;nta agua llevar al hacer trekking es la siguiente:</p> <ul> <li>Adultos:&nbsp;2 vasos de agua por cada hora de trekking</li> <li>Ni&ntilde;os:&nbsp;1-2 vasos por cada hora de trekking</li> </ul> <p>Si calculas que el recorrido durar&aacute; unas cinco horas, entonces debes traer al menos 10 vasos de agua por persona. Recuerda que estas son solo reglas generales. Algunas personas beben mucha m&aacute;s agua que esto. Sin embargo, esta es una buena gu&iacute;a para empezar.</p>",
       "afiliates":[
          1
@@ -16,6 +17,7 @@
    {
       "id":2,
       "title":"Wikiloc Descargado",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -30,6 +32,7 @@
    {
       "id":3,
       "title":"Snack salados",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -44,6 +47,7 @@
    {
       "id":4,
       "title":"Snack Dulces",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -58,6 +62,7 @@
    {
       "id":5,
       "title":"Fruta Seca",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -72,6 +77,7 @@
    {
       "id":6,
       "title":"Electrolitos",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -86,6 +92,7 @@
    {
       "id":7,
       "title":"Bolsa de basura",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -100,6 +107,7 @@
    {
       "id":8,
       "title":"Botiquín médico",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -114,6 +122,7 @@
    {
       "id":9,
       "title":"Silvato",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -128,6 +137,7 @@
    {
       "id":10,
       "title":"Bloqueador solar",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -142,6 +152,7 @@
    {
       "id":11,
       "title":"Navaja",
+      "img":"",
       "description":"",
       "afiliates":[
          
@@ -156,6 +167,7 @@
    {
       "id":12,
       "title":"Cuerda",
+      "img":"",
       "description":"",
       "afiliates":[
          
