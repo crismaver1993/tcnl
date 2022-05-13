@@ -49,6 +49,8 @@ Información para app de TCNL
 8. Botiquín médico
 9. Silvato
 10. Bloqueador solar
+11. Navaja
+12. Cuerda
 
 
 # Clothes
