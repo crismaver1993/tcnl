@@ -1,0 +1,170 @@
+[
+   {
+      "id":1,
+      "title":"Agua",
+      "description":"<p>La regla general para cu&aacute;nta agua llevar al hacer trekking es la siguiente:</p> <ul> <li>Adultos:&nbsp;2 vasos de agua por cada hora de trekking</li> <li>Ni&ntilde;os:&nbsp;1-2 vasos por cada hora de trekking</li> </ul> <p>Si calculas que el recorrido durar&aacute; unas cinco horas, entonces debes traer al menos 10 vasos de agua por persona. Recuerda que estas son solo reglas generales. Algunas personas beben mucha m&aacute;s agua que esto. Sin embargo, esta es una buena gu&iacute;a para empezar.</p>",
+      "afiliates":[
+         1
+      ],
+      "partners":[
+         1
+      ],
+      "stores":[
+         1
+      ]
+   },
+   {
+      "id":2,
+      "title":"Wikiloc Descargado",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":3,
+      "title":"Snack salados",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":4,
+      "title":"Snack Dulces",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":5,
+      "title":"Fruta Seca",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":6,
+      "title":"Electrolitos",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":7,
+      "title":"Bolsa de basura",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":8,
+      "title":"Botiquín médico",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":9,
+      "title":"Silvato",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":10,
+      "title":"Bloqueador solar",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":11,
+      "title":"Navaja",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":12,
+      "title":"Cuerda",
+      "description":"",
+      "afiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   }
+]
