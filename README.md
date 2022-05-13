@@ -70,5 +70,7 @@ Información para app de TCNL
 
 1. Agua extra (1 o 2 litros más)
 2. Refugio temporal (manta térmica, lona, bivy)
-3. Lámpara, pilas extra y batería portátil
-4. Cordino y navaja
+3. Lámpara, pilas extra
+4. Cordino
+5.  Navaja
+6.  Batería portátil
