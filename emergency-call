@@ -1,0 +1,24 @@
+[
+   {
+      "id":1,
+      "name":"911",
+      "country":"MX",
+      "state":"Nuevo León",
+      "img":"https://www.gob.mx/cms/uploads/article/main_image/25704/iman_2.jpg",
+      "phone":"911",
+      "fb_fan_page_link":"",
+      "fb_fan_page_id":"",
+      "website":"https://www.gob.mx/911"
+   },
+   {
+      "id":2,
+      "name":"Protección Civil NL",
+      "country":"MX",
+      "state":"Nuevo León",
+      "img":"https://www.tlalpan.cdmx.gob.mx/wp-content/uploads/2021/07/Proteccion-civil-logo-gen.png",
+      "phone":"No nos llevemos nada más que fotografías, no dejemos nada más que huellas y no matemos nada más que el tiempo",
+      "fb_fan_page_link":"https://www.facebook.com/proteccioncivilnuevoleon",
+      "fb_fan_page_id":"100064721526723",
+      "website":"https://www.nl.gob.mx/proteccioncivil"
+   }
+]
