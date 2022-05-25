@@ -1,0 +1,46 @@
+[
+   {
+      "id":1,
+      "name":"TrekkingCrewNL",
+      "img":"https://cldup.com/Wj65wxGODM.jpg",
+      "description":"No nos llevemos nada más que fotografías, no dejemos nada más que huellas y no matemos nada más que el tiempo",
+      "fb_fan_page_link":"",
+      "fb_fan_page_id":"",
+      "insta_link":"https://www.instagram.com/trekkingcrewnl",
+      "insta_id":"trekkingcrewnl",
+      "tiktok_link":"",
+      "tiktok_id":"",
+      "website":"",
+      "is_featured":false,
+      "is_affiliate":false,
+      "coupon_code":"",
+      "address":"",
+      "map_link":"",
+      "wikiloc_link":"",
+      "youtube_link": "",
+      "youtube_id: ""
+   },
+   
+   
+   {
+      "id":2,
+      "name":"Cumbre Cotidiana",
+      "img":"https://cldup.com/227YUxTm7O.webp",
+      "description":"Asociación enfocada en el cuidado del medio ambiente a través del senderismo responsable 🥾",
+      "fb_fan_page_link":"https://www.facebook.com/lacumbre.cotidiana/",
+      "fb_fan_page_id":"100054208863016",
+      "insta_link":"https://www.instagram.com/lacumbrecotidiana/",
+      "insta_id":"lacumbrecotidiana",
+      "tiktok_link":"",
+      "tiktok_id":"",
+      "website":"https://www.lacumbrecotidiana.org/",
+      "is_featured":false,
+      "is_affiliate":false,
+      "coupon_code":"",
+      "address":"",
+      "map_link":"",
+      "wikiloc_link":"https://www.wikiloc.com/wikiloc/user.do?id=4675508",
+      "youtube_link": "https://www.youtube.com/channel/UCT6hkV4O5gVqvnSlESH-vNg",
+      "youtube_id: ""
+   }
+]
