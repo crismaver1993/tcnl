@@ -17,11 +17,9 @@
       "address":"",
       "map_link":"",
       "wikiloc_link":"",
-      "youtube_link": "",
-      "youtube_id: ""
+      "youtube_link":"",
+      "youtube_id":""
    },
-   
-   
    {
       "id":2,
       "name":"Cumbre Cotidiana",
@@ -40,7 +38,7 @@
       "address":"",
       "map_link":"",
       "wikiloc_link":"https://www.wikiloc.com/wikiloc/user.do?id=4675508",
-      "youtube_link": "https://www.youtube.com/channel/UCT6hkV4O5gVqvnSlESH-vNg",
-      "youtube_id: ""
+      "youtube_link":"https://www.youtube.com/channel/UCT6hkV4O5gVqvnSlESH-vNg",
+      "youtube_id":""
    }
 ]
