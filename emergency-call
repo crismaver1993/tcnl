@@ -6,8 +6,11 @@
       "state":"Nuevo León",
       "img":"https://www.gob.mx/cms/uploads/article/main_image/25704/iman_2.jpg",
       "phone":"911",
+      "description":"",
       "fb_fan_page_link":"",
       "fb_fan_page_id":"",
+      "insta_link":"",
+      "insta_id":"",
       "website":"https://www.gob.mx/911"
    },
    {
@@ -16,9 +19,26 @@
       "country":"MX",
       "state":"Nuevo León",
       "img":"https://www.tlalpan.cdmx.gob.mx/wp-content/uploads/2021/07/Proteccion-civil-logo-gen.png",
-      "phone":"No nos llevemos nada más que fotografías, no dejemos nada más que huellas y no matemos nada más que el tiempo",
+      "phone":"5551280000",
+      "description":"",
       "fb_fan_page_link":"https://www.facebook.com/proteccioncivilnuevoleon",
       "fb_fan_page_id":"100064721526723",
+      "insta_link":"",
+      "insta_id":"",
+      "website":"https://www.nl.gob.mx/proteccioncivil"
+   },
+    {
+      "id":3,
+      "name":"Cruz Roja ",
+      "country":"MX",
+      "state":"Nuevo León",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/b/bb/Emblema_Cruz_Roja.jpg",
+      "phone":"5553951111",
+      "description":"",
+      "fb_fan_page_link":"",
+      "fb_fan_page_id":"",
+      "insta_link":"",
+      "insta_id":"",
       "website":"https://www.nl.gob.mx/proteccioncivil"
    }
 ]
