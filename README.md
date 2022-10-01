@@ -31,10 +31,11 @@ Información para app de TCNL
 3. Hipotermia
 4. Chorreadero
 5. Precipicios
-6. Mal de altura 
-7. Sin servicio de teléfono 
-8. Hiedra Venenosa,
-9. Expuesto al sol
+6. Hiedra Venenosa
+7. Expuesto al sol
+8. Mal de altura 
+9. Sin servicio de teléfono 
+
 
 
 # Things to take 
