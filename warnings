@@ -64,34 +64,9 @@
          1
       ]
    },
+  
    {
       "id":6,
-      "title":"Mal de altura",
-      "description":"La cumbre de esta montaña se encuentra a más de 2500 msnm. Aprende sobre prevención y tratamiento al mal de altura. ",
-      "recommendations":"",
-      "pdf":"",
-      "cumbre_cotidiana_pdf":"",
-      "img":"",
-      "video":"",
-      "affiliates":[
-         1
-      ]
-   },
-   {
-      "id":7,
-      "title":"Sin servicio de teléfono",
-      "description":"",
-      "recommendations":"",
-      "pdf":"",
-      "cumbre_cotidiana_pdf":"",
-      "img":"",
-      "video":"",
-      "affiliates":[
-         1
-      ]
-   },
-   {
-      "id":8,
       "title":"Hiedra Venenosa",
       "description":"",
       "recommendations":"",
@@ -104,8 +79,34 @@
       ]
    },
    {
-      "id":9,
+      "id":7,
       "title":"Expuesto al sol",
+      "description":"",
+      "recommendations":"",
+      "pdf":"",
+      "cumbre_cotidiana_pdf":"",
+      "img":"",
+      "video":"",
+      "affiliates":[
+         1
+      ]
+   },
+    {
+      "id":8,
+      "title":"Mal de altura",
+      "description":"La cumbre de esta montaña se encuentra a más de 2500 msnm. Aprende sobre prevención y tratamiento al mal de altura. ",
+      "recommendations":"",
+      "pdf":"",
+      "cumbre_cotidiana_pdf":"",
+      "img":"",
+      "video":"",
+      "affiliates":[
+         1
+      ]
+   },
+   {
+      "id":9,
+      "title":"Sin servicio de teléfono",
       "description":"",
       "recommendations":"",
       "pdf":"",
