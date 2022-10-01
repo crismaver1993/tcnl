@@ -1,5 +1,6 @@
  {
       "id":2,
+      "is_visible": true,
       "hashtags":"#tcnl",
       "qrUrl":"",
       "synchronized":false,
