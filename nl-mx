@@ -2,6 +2,7 @@
    {
       "id":1,
       "is_visible": false,
+      "is_qr_available": false,
       "hashtags":"#tcnl-piconorte #cerrolasilla #piconorte",
       "qr_url":"https://cldup.com/syiLcdqBr8.png",
       "synchronized":false,
@@ -88,6 +89,7 @@
    {
       "id":2,
       "is_visible": false,
+      "is_qr_available": false,
       "hashtags":"#tcnl-popa #lapopa",
       "qr_url":"https://cldup.com/55rZQhCVfl.png",
       "synchronized":false,
@@ -168,6 +170,7 @@
    {
    "id":3,
    "is_visible":true,
+   "is_qr_available": true,
    "hashtags":"#wildpass #laviga",
    "qr_url":"https://cldup.com/F5a6VD7AxC.png",
    "synchronized":false,
