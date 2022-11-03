@@ -32,8 +32,8 @@
    {
       "id":3,
       "title":"Snack",
-      "img":"",
-      "description":"",
+      "img":"https://cldup.com/8EK80c_7y5.webp",
+      "description":"<p><strong>Futos secos</strong>. Estos tienen un impacto positivo en nuestra salud cardiovascular. Las nueces son sabrosas, pr&aacute;cticas y son el snack perfecto. Los cacahuetes son una buena fuente de vitamina E, magnesio,folato, cobre y f&oacute;sforo, mientras que otros frutos secos como las almendras, las nueces y los anacardos son conocidos por su alto contenido en calor&iacute;as y su abundancia de prote&iacute;nas, carbohidratos y grasas saludables. Estos nutrientes te proporcionan una lenta liberaci&oacute;n de energ&iacute;a durante la caminata.<br><br><strong>Mantequilla de cacahuete y pl&aacute;tano</strong>. Cuando las rodillas tiemblen y notes calambres en los gemelos, coge un pl&aacute;tano. Lleno de potasio que ayuda a las contracciones musculares y a las se&ntilde;ales nerviosas, el pl&aacute;tano es el snack perfecto. &iquest;Quieres algo m&aacute;s? A&ntilde;ade pl&aacute;tano triturado sobre una tortita de arroz y unta un poco de mantequilla de cacahuete para conseguir un toque salado y crujiente.<br><br><strong>Humus y palitos de verduras.&nbsp;</strong>Los garbanzos son incre&iacute;bles para combatir la inflamaci&oacute;n, as&iacute; que si tus pies y manos son propensos a un edema perif&eacute;rico (hinchaz&oacute;n debido a la altitud), este es el snack perfecto para ti. El pepino es 95% agua, lo que te mantiene perfectamente hidratado. Comb&iacute;nalo en rodajas con tus verduras favoritas y m&eacute;zclalo con humus para obtener un snack sabroso y nutritivo.<br><strong><br>Surtido de frutos secos.</strong> No ser&iacute;a una caminata sin un surtido de frutos secos. &iquest;Verdad? Son muy f&aacute;ciles de encontrar en las tiendas, pero lo divertido es hacerlas t&uacute; mismo. Ya sea con frutas, con nueces o con chocolate, elige tus snacks favoritos y m&eacute;zclalos todos juntos en una bolsa.<br><strong><br>Cecina o trocitos de carne.</strong> Poseen un alto contenido de prote&iacute;nas y son f&aacute;ciles de consumir. Adem&aacute;s, existe la cecina vegetariana, as&iacute; que hay opciones para todos. Como alternativa, las chips de verdura tambi&eacute;n son deliciosas.<br><br><strong>At&uacute;n.</strong> Este alimento es uno de los cl&aacute;sicos para cualquier tipo de actividad al aire libre. Una lata de at&uacute;n es en realidad un gran paquete de prote&iacute;nas no perecederas. Adem&aacute;s, puede mezclarse con complementos adicionales como galletas saladas, queso, &nbsp;entre otros.</p>",
       "affiliates":[
          
       ],
@@ -48,7 +48,7 @@
    {
       "id":4,
       "title":"Electrolitos",
-      "img":"",
+      "img":"https://cldup.com/tYe8fCi2Ae.webp",
       "description":"",
       "affiliates":[
          
@@ -63,7 +63,7 @@
    {
       "id":5,
       "title":"Bolsa de basura",
-      "img":"",
+      "img":"https://cldup.com/DV1EVxlI-S.jpg",
       "description":"",
       "affiliates":[
          
@@ -78,7 +78,7 @@
    {
       "id":6,
       "title":"Botiquín médico",
-      "img":"",
+      "img":"https://cldup.com/ZKGnkMeT8E.webp",
       "description":"",
       "affiliates":[
          
@@ -92,8 +92,8 @@
    },
    {
       "id":7,
-      "title":"Silvato",
-      "img":"",
+      "title":"Silbato",
+      "img":"https://cldup.com/2HH9K1N6v0.jpg",
       "description":"",
       "affiliates":[
          
@@ -108,7 +108,7 @@
    {
       "id":8,
       "title":"Bloqueador solar",
-      "img":"",
+      "img":"https://cldup.com/gi555WIves.jpg",
       "description":"",
       "affiliates":[
          
@@ -123,7 +123,7 @@
    {
       "id":9,
       "title":"Navaja",
-      "img":"",
+      "img":"https://cldup.com/9ESWLJEybV.webp",
       "description":"",
       "affiliates":[
          
@@ -138,7 +138,7 @@
    {
       "id":10,
       "title":"Cuerda",
-      "img":"",
+      "img":"https://cldup.com/z9d3UqtRwj.jpg",
       "description":"",
       "affiliates":[
          
