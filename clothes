@@ -2,23 +2,23 @@
    {
       "id":1,
       "title":"Gorro o Sombrero",
-      "img":"",
-      "description":"",
+      "img":"https://cldup.com/20ASJhxvPF.webp",
+      "description":"<p>La climatolog&iacute;a en la monta&ntilde;a es impredecible, puede cambiar de un momento a otro, mantener la cabeza protegida de los rayos de sol o de la lluvia inesperada siempre tiene que ser una prioridad.<br><br>Los sombreros y gorras de senderismo vienen en todas las formas y tama&ntilde;os y se ajustan c&oacute;modamente a la vez que ofrecen la m&aacute;xima protecci&oacute;n contra los elementos. Dependiendo de don de vayamos a andar podemos optar por un modelo tipo gorra o por un sombrero que nos cubran totalmente la cabeza y darnos una protecci&oacute;n de 360 grados. Si hacemos senderismo en condiciones de mucho sol, tenemos que optar por una gorra de senderismo con una capa para el cuello, la longitud adicional en la parte posterior protege completamente nuestro cuello y orejas de las quemaduras del sol.</p>",
       "affiliates":[
-         1
+         
       ],
       "partners":[
-         1
+         
       ],
       "stores":[
-         1
+         
       ]
    },
    {
       "id":2,
       "title":"Buff para el cuello",
-      "img":"",
-      "description":"",
+      "img":"https://cldup.com/u_rjEC3mQ6.jpeg",
+      "description":"<p>Proporcionan alivio al sol y bloquean los rayos UV. Si hace viento pueden proteger la piel y generar un poco de calor. Por la noche, cuando hace fr&iacute;o, se pueden usar y son lo suficientemente c&oacute;modos como para dormir. Si hace mucho fr&iacute;o, puede usar una versi&oacute;n m&aacute;s c&aacute;lida de forro polar. Adem&aacute;s, incluso puedes envolver uno alrededor de un saco de cosas para crear una bonita funda de almohada. En conclusi&oacute;n son multiusos, ligeros y vers&aacute;tiles.</p>",
       "affiliates":[
          
       ],
@@ -31,9 +31,9 @@
    },
    {
       "id":3,
-      "title":"Manga larga",
-      "img":"",
-      "description":"",
+      "title":"Ropa: Miembro superior",
+      "img":"https://cldup.com/UxosMnzgLI.png",
+      "description":"<p>Es importante considerar si la zona donde haremos senderismo es caliente, fr&iacute;, con mucho viento, y de acuerdo a esto elegir la ropa superior correctamente. Una recomendaci&oacute;n es usar ropa t&eacute;cnica y manga larga para protegernos del sol, insectos, ramas, espinas etc.<br><br>Si el lugar es fr&iacute;o se recomienda seguir el consejo de vestirse en 3 capas.<br><br><strong>1. Primera capa</strong>. Es la capa que se encuentra en contacto con la piel. Su principal funci&oacute;n es alejar nuestro sudor de la piel, evitando la sensaci&oacute;n de humedad y que nuestro cuerpo se enfr&iacute;e.<br><br><strong>2. Segunda capa.</strong> Su funci&oacute;n es aislarnos t&eacute;rmicamente. Estas prendas no nos calientan de manera directa, su misi&oacute;n es retener el calor que genera el cuerpo e impedir su enfriamiento, favoreciendo al mismo tiempo la evacuaci&oacute;n del sudor.<br><br><strong>3. Tercera capa</strong>. Su funci&oacute;n es protegernos de tres factores importantes:<br><br>a) De la humedad exterior: mantenernos secos ante la lluvia y la nieve, es decir, impermeabilidad.&nbsp;</p> <p>b) Del viento exterior: evitar la sensaci&oacute;n de frio que provoca el viento y las bajas temperaturas.&nbsp;</p> <p>c) De nuestro sudor: permitiendo su evacuaci&oacute;n ya que las capas anteriores no han debido retenerlo, es decir, transpirabilidad.</p>",
       "affiliates":[
          
       ],
@@ -46,9 +46,9 @@
    },
    {
       "id":4,
-      "title":"Pantalón largo",
-      "img":"",
-      "description":"",
+      "title":"Ropa: Miembro inferior",
+      "img":"https://cldup.com/9GJyFELuIF.png",
+      "description":"<p>La elecci&oacute;n del pantal&oacute;n est&aacute; sujeta principalmente al grado de dificultad del sendero que realizar&aacute;s; no es lo mismo caminar un sendero de dificultad baja que hacer un trekking exigente.<br><br>El senderismo tiene la caracter&iacute;stica de ser una caminata de exigencia baja o moderada, donde las condiciones clim&aacute;ticas y el esfuerzo que realizaremos es considerablemente inferior a lo que propone el trekking. Por dicha raz&oacute;n, el pantal&oacute;n que necesitaremos para hacer una actividad de trekking es m&aacute;s t&eacute;cnico que uno de senderismo; el pantal&oacute;n debe ser capaz de traspirar la humedad, mantener el calor, resistir a la abrasi&oacute;n y protegernos de la lluvia.<br><br><strong>Pantal&oacute;n corto:</strong> ofrece la posibilidad de sentirnos m&aacute;s frescos, pero como contrapartida nos expone a posibles da&ntilde;os en nuestra piel ante roces con ramas y piedras (en caso de caernos) y no nos protege frente a los rayos solares UV.<br><strong><br>Pantal&oacute;n largo:</strong> Protege de ara&ntilde;azos y heridas cuando transitamos por senderos hostiles y adem&aacute;s, al cubrir completamente las piernas, dan mayor protecci&oacute;n frente a los rayos UV.<br><br><strong>Pantal&oacute;n convertible:</strong> Permite quitar la parte inferior del pantal&oacute;n gracias a un cierre, us&aacute;ndolo como pantal&oacute;n corto o largo, seg&uacute;n m&aacute;s te convenga.<br><br>No hay un tipo de pantal&oacute;n que sea mejor que otro, todo depende del tipo de actividad que realizaremos y las condiciones a las que nos expondremos al realizar el trekking o senderismo.</p>",
       "affiliates":[
          
       ],
@@ -61,9 +61,9 @@
    },
    {
       "id":5,
-      "title":"Botas/tenis de hike",
-      "img":"",
-      "description":"",
+      "title":"Calzado",
+      "img":"https://cldup.com/pAFzxOsebY.png",
+      "description":"<p>Un calzado adecuado te permitir&aacute; superar la fatiga kil&oacute;metro tras kil&oacute;metro y no agotarte antes de llegar a la cima.<br><br>De nada nos sirve una membrana, una bota o zapatilla perfectamente dise&ntilde;ada, si no llevamos los calcetines adecuados. Estos van estar en contacto con nuestra piel, y por lo tanto su dise&ntilde;o debe ser sin costuras (costuras planas), tiene que ajustar perfectamente, y tiene que estar fabricado con materiales t&eacute;cnicos que garanticen la evacuaci&oacute;n del sudor y la regulaci&oacute;n t&eacute;rmica de fr&iacute;o y calor. &nbsp;En los calcetines &nbsp;el algod&oacute;n es una fibra que descartaremos en nuestros calcetines t&eacute;cnicos para monta&ntilde;a pudiendo utilizarlo, eso s&iacute;, en peque&ntilde;o porcentaje cuando la actividad sea senderismo no muy exigente tanto en dificultad, como temperatura, como en duraci&oacute;n. Trataremos de evitar este material ya que su hidrofilia absorbe mucho la humedad y evita que el calzado la pueda evacuar al exterior.<br><br>En cuanto a las botas de monta&ntilde;a, la recomendaci&oacute;n m&aacute;s importante, si est&aacute;s pisando sobre todo hielo o nieve, es que tengas la suela lo m&aacute;s gruesa posible, para que el fr&iacute;o no se transmita desde la planta del pie. Los materiales, ya que estamos hablando de fr&iacute;o, tienen que ser por dentro c&aacute;lido con alg&uacute;n tipo de fibra tipo Tinsulate (fibras huecas), y por fuera sint&eacute;tico (ya que hay materiales de muy buena calidad, como el kevlar, SuperFabric, Gore-Tex, etc), o piel (la piel siempre es un buen aislante), pero cabe recordar que lo recomendable es que adem&aacute;s est&eacute; acolchado en el interior.<br><br>Un buen calzado para hacer rutas de trekking-hiking tiene que cumplir una serie de requisitos para convertirse en una excelente inversi&oacute;n y un perfecto aliado a la hora de emprender cualquier excursi&oacute;n o recorrido. Requisitos que debe cumplir el calzado de trekking y senderismo:<br><br>1. Protecci&oacute;n&nbsp;</p> <p>2. Estabilidad y amortiguaci&oacute;n&nbsp;</p> <p>3. Agarre&nbsp;</p> <p>4. Transpirabilidad/Impermeabilidad&nbsp;</p> <p>5. Seguridad&nbsp;</p> <p>6. Comodidad</p>",
       "affiliates":[
          
       ],
@@ -77,23 +77,8 @@
    {
       "id":6,
       "title":"Bastones (opcional)",
-      "img":"",
-      "description":"",
-      "affiliates":[
-         
-      ],
-      "partners":[
-         
-      ],
-      "stores":[
-         
-      ]
-   },
-   {
-      "id":7,
-      "title":"Bastones (obligatorio)",
-      "img":"",
-      "description":"",
+      "img":"https://cldup.com/QYPwY5mUu2.jpg",
+      "description":"<p>Importancias de los bastones:<br><br><strong>Reducen la carga en las rodillas:</strong> Cuando caminamos sin bastones, la carga se concentra en el tren inferior, generando un mayor impacto en rodillas y tobillos. Con los bastones ayudamos a repartir un poco esa carga hacia el tronco superior, utilizando la fuerza de los pectorales y brazos para reducir hasta en un 25% el impacto en las rodillas. Si quieres seguir en esto hasta viejo, esta raz&oacute;n por s&iacute; sola ya es suficiente.<br><br><strong>Ofrecen m&aacute;s puntos de apoyo:</strong> Los bastones entregan dos puntos de apoyo adicionales que te ayudar&aacute;n a subir gracias a la fuerza del tren superior, y sobre todo a bajar en pendientes m&aacute;s inclinadas.<br><br><strong>Mayor Tracci&oacute;n:</strong> Los dos puntos de contacto te dar&aacute;n mayor tracci&oacute;n en terrenos resbaladizos e inestables como nieve, barro o roca suelta.<br><br><strong>Ayudan a mejorar el ritmo: </strong>Caminar con bastones te ayudar&aacute; a establecer y mantener un ritmo constante, que puede ayudarte a mejorar tu velocidad, sobre todo en terrenos m&aacute;s planos y menos t&eacute;cnicos.<br><br><strong>Mejoran el equilibrio: </strong>Los bastones te ayudar&aacute;n a equilibrarte en terrenos dif&iacute;ciles como en cruces de r&iacute;os, o filos expuestos, lo que te permitir&aacute; moverte de manera m&aacute;s r&aacute;pida, f&aacute;cil y segura.<br><br><strong>Sirven para mover obst&aacute;culos: </strong>Los bastones te permiten &quot;limpiar&quot; tu camino al poder mover ramas con espinas atravesadas en el sendero o quitar telas de ara&ntilde;a.<br><br><strong>Los puedes usar como sonda:</strong> Los bastones de trekking pueden ser utilizados como una sonda para &quot;tantear&quot; y obtener mayor informaci&oacute;n sobre el terreno que tenemos por delante, como por ejemplo, determinar la profundidad de un charco o constatar la solidez de un puente de nieve.<br><br>Ayuda en breves momentos de descanso: Los bastones te ayudar&aacute;n a aliviar un poco el peso que llevas en la espalda. Por ejemplo, si cargas una mochila pesada, puedes tomar un breve descanso apoy&aacute;ndote en ellos.</p>",
       "affiliates":[
          
       ],

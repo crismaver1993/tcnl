@@ -60,11 +60,10 @@ Información para app de TCNL
 
 1. Gorro o sombrero
 2. Buff para el cuello
-4. Manga larga
-5. Pantalón largo
-6. Botas/tenis de hike
+4. Ropa: Miembro superior
+5. Ropa: Miembro inferior
+6. Calzado
 7. Bastones (opcional)
-8. Bastones (obligatorio)
 
 
 # Emergency Kit
