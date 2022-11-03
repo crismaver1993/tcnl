@@ -42,16 +42,14 @@ Información para app de TCNL
 
 1. 3 litros de agua
 2. Wikiloc descargado
-3. Snacks salados
-4. Snacks dulces
-5. Fruta fresca
-6. Electrolitos
-7. Bolsa de basura
-8. Botiquín médico
-9. Silvato
-10. Bloqueador solar
-11. Navaja
-12. Cuerda
+3. Snacks 
+4. Electrolitos
+5. Bolsa de basura
+6. Botiquín médico
+7. Silvato
+8. Bloqueador solar
+9. Navaja
+10. Cuerda
 
 
 # Clothes
@@ -59,10 +57,10 @@ Información para app de TCNL
 
 1. Gorro o sombrero
 2. Buff para el cuello
-4. Ropa: Miembro superior
-5. Ropa: Miembro inferior
-6. Calzado
-7. Bastones (opcional)
+3. Ropa: Miembro superior
+4. Ropa: Miembro inferior
+5. Calzado
+6. Bastones (opcional)
 
 
 # Emergency Kit
