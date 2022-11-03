@@ -1,7 +1,7 @@
 [
    {
       "id":1,
-      "is_visible": false,
+      "is_visible": true,
       "is_qr_available": false,
       "hashtags":"#tcnl-piconorte #cerrolasilla #piconorte",
       "qr_url":"https://cldup.com/syiLcdqBr8.png",
@@ -88,7 +88,7 @@
    },
    {
       "id":2,
-      "is_visible": false,
+      "is_visible": true,
       "is_qr_available": false,
       "hashtags":"#tcnl-popa #lapopa",
       "qr_url":"https://cldup.com/55rZQhCVfl.png",
