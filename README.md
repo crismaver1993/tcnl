@@ -63,7 +63,6 @@ Información para app de TCNL
 5. Ropa: Miembro inferior
 6. Calzado
 7. Bastones (opcional)
-8. Bastones (obligatorio)
 
 
 # Emergency Kit
