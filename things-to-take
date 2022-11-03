@@ -2,7 +2,7 @@
    {
       "id":1,
       "title":"Agua",
-      "img":"",
+      "img":"https://cldup.com/ZW_r39ibGw.jpg",
       "description":"<p>La regla general para cu&aacute;nta agua llevar al hacer trekking es la siguiente:</p> <p><br></p> <ul> <li>Adultos:&nbsp;2 vasos de agua por cada hora de trekking<br><br></li> <li>Ni&ntilde;os:&nbsp;1-2 vasos por cada hora de trekking</li> </ul> <p><br></p> <p>Si calculas que el recorrido durar&aacute; unas cinco horas, entonces debes traer al menos 10 vasos de agua por persona. Recuerda que estas son solo reglas generales. Algunas personas beben mucha m&aacute;s agua que esto. Sin embargo, esta es una buena gu&iacute;a para empezar.</p>",
       "affiliates":[
          1
@@ -17,8 +17,8 @@
    {
       "id":2,
       "title":"Wikiloc Descargado",
-      "img":"",
-      "description":"",
+      "img":"https://cldup.com/1aVrC4YK4B.png",
+      "description":"<p> Es importante conocer la ruta que vas a visitiar. Por eso te recomendamos descargar la app de Wikiloc y la ruta antes de partir a la naturaleza, esto puede salvarte la vida.</p>",
       "affiliates":[
          
       ],
@@ -31,7 +31,7 @@
    },
    {
       "id":3,
-      "title":"Snack salados",
+      "title":"Snack",
       "img":"",
       "description":"",
       "affiliates":[
@@ -44,38 +44,9 @@
          
       ]
    },
+  
    {
       "id":4,
-      "title":"Snack Dulces",
-      "img":"",
-      "description":"",
-      "affiliates":[
-         
-      ],
-      "partners":[
-         
-      ],
-      "stores":[
-         
-      ]
-   },
-   {
-      "id":5,
-      "title":"Fruta Seca",
-      "img":"",
-      "description":"",
-      "affiliates":[
-         
-      ],
-      "partners":[
-         
-      ],
-      "stores":[
-         
-      ]
-   },
-   {
-      "id":6,
       "title":"Electrolitos",
       "img":"",
       "description":"",
@@ -90,7 +61,7 @@
       ]
    },
    {
-      "id":7,
+      "id":5,
       "title":"Bolsa de basura",
       "img":"",
       "description":"",
@@ -105,7 +76,7 @@
       ]
    },
    {
-      "id":8,
+      "id":6,
       "title":"Botiquín médico",
       "img":"",
       "description":"",
@@ -120,7 +91,7 @@
       ]
    },
    {
-      "id":9,
+      "id":7,
       "title":"Silvato",
       "img":"",
       "description":"",
@@ -135,7 +106,7 @@
       ]
    },
    {
-      "id":10,
+      "id":8,
       "title":"Bloqueador solar",
       "img":"",
       "description":"",
@@ -150,7 +121,7 @@
       ]
    },
    {
-      "id":11,
+      "id":9,
       "title":"Navaja",
       "img":"",
       "description":"",
@@ -165,7 +136,7 @@
       ]
    },
    {
-      "id":12,
+      "id":10,
       "title":"Cuerda",
       "img":"",
       "description":"",
