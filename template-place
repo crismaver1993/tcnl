@@ -1,6 +1,7 @@
 {
       "id":3,
       "is_visible": true,
+      "is_qr_available": false,
       "hashtags":"#wildpass ",
       "qr_url":"",
       "synchronized":false,
