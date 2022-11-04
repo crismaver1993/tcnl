@@ -46,10 +46,11 @@ Información para app de TCNL
 4. Electrolitos
 5. Bolsa de basura
 6. Botiquín médico
-7. Silvato
+7. Silbato
 8. Bloqueador solar
 9. Navaja
 10. Cuerda
+11. Gafas de sol
 
 
 # Clothes
