@@ -43,14 +43,16 @@ Información para app de TCNL
 1. 3 litros de agua
 2. Wikiloc descargado
 3. Snacks 
-4. Electrolitos
-5. Bolsa de basura
-6. Botiquín médico
-7. Silbato
-8. Bloqueador solar
-9. Navaja
-10. Cuerda
-11. Gafas de sol
+4. Dulces
+5. Fruta seca
+6. Electrolitos
+7. Bolsa de basura
+8. Botiquín médico
+9. Silbato
+10. Bloqueador solar
+11. Navaja
+12. Cuerda
+13. Gafas de sol
 
 
 # Clothes
