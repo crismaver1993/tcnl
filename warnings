@@ -41,7 +41,7 @@
    {
       "id":4,
       "title":"Chorreadero",
-      "description":"",
+      "description":"<p>Evita tumbar una piedra a causa de tu ignorancia, puedes matar a alguien, o morir tu. En esta vereda hay chorreaderos. Presiona la imagen para descargar el instructivo.</p>",
       "recommendations":"",
       "pdf":"",
       "cumbre_cotidiana_pdf":"",
@@ -54,7 +54,7 @@
    {
       "id":5,
       "title":"Precipicios",
-      "description":"",
+      "description":"<p>Este recorrido tiene partes en las que el camino est&aacute; junto a un precipicio. No apto para gente con miedo a las alturas. Jam&aacute;s te acerques a la orilla para tomar una foto.</p>",
       "recommendations":"",
       "pdf":"",
       "cumbre_cotidiana_pdf":"",
@@ -81,7 +81,7 @@
    {
       "id":7,
       "title":"Expuesto al sol",
-      "description":"",
+      "description":"<p> No te juegues la vida con el sol. Lleva más que suficiente agua. Evita morir a causa de deshidratación y golpe de calor. Presiona la imagen para descargar el instructivo.</p>",
       "recommendations":"",
       "pdf":"",
       "cumbre_cotidiana_pdf":"",
