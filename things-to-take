@@ -44,9 +44,38 @@
          
       ]
    },
-  
    {
       "id":4,
+      "title":"Dulces",
+      "img":"https://cldup.com/8EK80c_7y5.webp",
+      "description":"<p> Dulces para refrescar el aliento y dar energía</p>",
+      "affiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":5,
+      "title":"Fruta seca",
+      "img":"https://cldup.com/8EK80c_7y5.webp",
+      "description":"<p><strong>Futos secos</strong>. Estos tienen un impacto positivo en nuestra salud cardiovascular. Las nueces son sabrosas, pr&aacute;cticas y son el snack perfecto. Los cacahuetes son una buena fuente de vitamina E, magnesio,folato, cobre y f&oacute;sforo, mientras que otros frutos secos como las almendras, las nueces y los anacardos son conocidos por su alto contenido en calor&iacute;as y su abundancia de prote&iacute;nas, carbohidratos y grasas saludables. Estos nutrientes te proporcionan una lenta liberaci&oacute;n de energ&iacute;a durante la caminata.<br><br><strong>Mantequilla de cacahuete y pl&aacute;tano</strong>. Cuando las rodillas tiemblen y notes calambres en los gemelos, coge un pl&aacute;tano. Lleno de potasio que ayuda a las contracciones musculares y a las se&ntilde;ales nerviosas, el pl&aacute;tano es el snack perfecto. &iquest;Quieres algo m&aacute;s? A&ntilde;ade pl&aacute;tano triturado sobre una tortita de arroz y unta un poco de mantequilla de cacahuete para conseguir un toque salado y crujiente.<br><br><strong>Humus y palitos de verduras.&nbsp;</strong>Los garbanzos son incre&iacute;bles para combatir la inflamaci&oacute;n, as&iacute; que si tus pies y manos son propensos a un edema perif&eacute;rico (hinchaz&oacute;n debido a la altitud), este es el snack perfecto para ti. El pepino es 95% agua, lo que te mantiene perfectamente hidratado. Comb&iacute;nalo en rodajas con tus verduras favoritas y m&eacute;zclalo con humus para obtener un snack sabroso y nutritivo.<br><strong><br>Surtido de frutos secos.</strong> No ser&iacute;a una caminata sin un surtido de frutos secos. &iquest;Verdad? Son muy f&aacute;ciles de encontrar en las tiendas, pero lo divertido es hacerlas t&uacute; mismo. Ya sea con frutas, con nueces o con chocolate, elige tus snacks favoritos y m&eacute;zclalos todos juntos en una bolsa.<br><strong><br>Cecina o trocitos de carne.</strong> Poseen un alto contenido de prote&iacute;nas y son f&aacute;ciles de consumir. Adem&aacute;s, existe la cecina vegetariana, as&iacute; que hay opciones para todos. Como alternativa, las chips de verdura tambi&eacute;n son deliciosas.<br><br><strong>At&uacute;n.</strong> Este alimento es uno de los cl&aacute;sicos para cualquier tipo de actividad al aire libre. Una lata de at&uacute;n es en realidad un gran paquete de prote&iacute;nas no perecederas. Adem&aacute;s, puede mezclarse con complementos adicionales como galletas saladas, queso, &nbsp;entre otros.</p>",
+      "affiliates":[
+         
+      ],
+      "partners":[
+         
+      ],
+      "stores":[
+         
+      ]
+   },
+   {
+      "id":6,
       "title":"Electrolitos",
       "img":"https://cldup.com/tYe8fCi2Ae.webp",
       "description":"<p>El agua purificada no es la mejor hidrataci&oacute;n en la monta&ntilde;a, por lo que te recomendamos que &nbsp;lleves electrolitos que le provean los iones necesarios a t&uacute; cuerpo para que su funcionamiento se mantenga dentro de lo normal. Los electrolitos son minerales cargados negativamente (aniones) o positivamente (cationes), que en una soluci&oacute;n conducen una corriente el&eacute;ctrica los cuales permiten la transmisi&oacute;n de se&ntilde;ales entre las c&eacute;lulas para el funcionamiento de los diversos sistemas de nuestro organismo.<br><br>Los principales electrolitos son calcio, sodio, potasio, cloruro de magnesio, bicarbonato, entre otros.</p>",
@@ -61,7 +90,7 @@
       ]
    },
    {
-      "id":5,
+      "id":7,
       "title":"Bolsa de basura",
       "img":"https://cldup.com/DV1EVxlI-S.jpg",
       "description":"<p>Es importante dejar el lugar mejor de lo que lo encontramos, por ello no olvides traerte toda la basura y desechos contigo. </p>",
@@ -76,7 +105,7 @@
       ]
    },
    {
-      "id":6,
+      "id":8,
       "title":"Botiquín médico",
       "img":"https://cldup.com/ZKGnkMeT8E.webp",
       "description":"<p>Cuando salgas a hacer alguna actividad en el medio natural lleva siempre en tu mochila un botiqu&iacute;n entre tu material b&aacute;sico.</p> <p><br></p> <p><strong>Medicamentos a incluir en el botiqu&iacute;n:</strong></p> <p><br></p> <p>Analg&eacute;sico, para el dolor en general y para bajar la fiebre: paracetamol . Tambi&eacute;n un analg&eacute;sico m&aacute;s fuerte para dolores m&aacute;s fuertes (muelas, apendicitis, fracturas&hellip;), como metamizol .</p> <p><br></p> <p>Para la diarrea: loperamida</p> <p>Para la tos: code&iacute;na</p> <p>Para reacciones al&eacute;rgicas leves: dexclofeniramina</p> <p>Para las n&aacute;useas y v&oacute;mitos: metoclopramida</p> <p>Anti&aacute;cidos, para el dolor de est&oacute;mago</p> <p>Colirio, para limpieza y calmante de afecciones en los ojos (por sol, nieve, etc),</p> <p><br></p> <p><strong>Para la limpieza de heridas:</strong></p> <p>1. Un tubito de 10 ml de suero fisiol&oacute;gico</p> <p>2. Povidona yodada soluci&oacute;n antis&eacute;ptica</p> <p>3. Dos vendas compresivas el&aacute;sticas de 5 cm</p> <p>4. esparadrapo</p> <p>5. Gasas est&eacute;riles</p> <p>6. Una gasa engrasada para poner en una herida antes de taparla</p> <p>7. Tiras de aproximaci&oacute;n</p> <p>8. Tiritas</p> <p>9. Una pinza peque&ntilde;a</p> <p>10. Unas hojas de bistur&iacute; tijeras</p> <p>1. Agujas est&eacute;riles</p> <p><br></p> <p><strong>Para prevenir otros problemas:</strong></p> <p><br></p> <p>1. Una manta t&eacute;rmica (para abrigar a heridos)&nbsp;</p> <p>2. Pastillas de glucosa (agotamientos)&nbsp;</p> <p>3. Sales minerales (deshidrataciones)&nbsp;</p> <p>4. Alg&uacute;n alimento energ&eacute;tico (cansancios extremos)&nbsp;</p> <p>5. Pastillas para potabilizar el agua</p> <p>6. &nbsp;Guantes est&eacute;riles&nbsp;</p> <p>7. Crema solar protecci&oacute;n total</p>",
@@ -91,7 +120,7 @@
       ]
    },
    {
-      "id":7,
+      "id":9,
       "title":"Silbato",
       "img":"https://cldup.com/2HH9K1N6v0.jpg",
       "description":"<p>Es imprescindible en el equipo habitual de senderismo. A la ventaja de &nbsp;ligereza le debemos sumar su total independencia de cualquier fuente energ&eacute;ticay su gran alcance (llegando a ser audibles incluso a 3 km de distancia).<br><br>Este peque&ntilde;o artilugio te servir&aacute; para se&ntilde;alizar tu posici&oacute;n en la monta&ntilde;a en caso de escasa visibilidad, para comunicarte con tus compa&ntilde;eros de cordada (si lo tuyo es escalar) y lo m&aacute;s importante, para pedir auxilio en caso de emergencia. No lo uses si no tienes motivos.<br><br>Una buena forma de no equivocarte en tu elecci&oacute;n es que compres un silbato n&aacute;utico que cumpla la normativa SOLAS 74/83 &ndash; EN 394 (es el que llevan normalmente los aficionados al barranquismo). Podr&aacute;s ver que el propio silbato lleva la norma grabada.<br><br><strong>Comunic&aacute;ndonos con el silbato:</strong><br><br><strong>Pidiendo ayuda.</strong><br><br>&ndash; Se&ntilde;al internacional de socorro en monta&ntilde;a (ICAR-CISA y UIAA):<br><br>La frecuencia ha de ser de 6 pitidos por minuto con un minuto de pausa. Para enviar una respuesta, en caso de haber recibido un aviso, la frecuencia ser&aacute; de 3 pitidos por minuto, seguidos de un minuto de pausa.<br><br><strong>&ndash; C&oacute;digo MORSE:</strong><br><br>La transcripci&oacute;n del las siglas SOS al c&oacute;digo MORSE viene dada por el deletreo de sus siglas: S= &middot; &middot; &middot; / O= &ndash; &ndash; &ndash; /S= &middot; &middot; &middot;. As&iacute; que para enviar una se&ntilde;al de socorro en c&oacute;digo MORSE tendr&aacute;s que convertir esos puntos y rayas a pitidos, de modo que la frecuencia ser&aacute; de <strong>3 pitidos cortos (S)</strong>, <strong>seguidos de 3 pitidos largos (O)</strong> y <strong>otros 3 pitidos cortos (S</strong>).<br><br>Para responder a una petici&oacute;n de auxilio y avisar de que has recibido correctamente esa se&ntilde;al de socorro, <strong>responder&aacute;s con tres pitidos largos.</strong><br><br><strong>Comunic&aacute;ndonos con otros en la distancia:</strong><br><br>Inicia la comunicaci&oacute;n con un pitido largo continuo, y si el receptor lo ha escuchado te devolver&aacute; otro pitido tambi&eacute;n largo y cont&iacute;nuo. Ese pitido de vuelta intentar&aacute; igualar en duraci&oacute;n al tuyo, de modo que esa se&ntilde;al de vuelta sea un claro indicador de que se ha producido &laquo;feedback&raquo;. Una vez establecida la comunicaci&oacute;n (y dando por hecho que no sabes c&oacute;digo morse), tus mensajes se ver&aacute;n muy limitados. Por ejemplo, en e<strong>scalada suelen usar un pitido corto para decir &laquo;stop&raquo;</strong>, dos pit<strong>idos para indicar que el paso est&aacute; &laquo;libre&raquo; y tres pitidos para &laquo;descender&raquo;.</strong></p> <p><strong>&nbsp;Para memorizarlo la cosa es bien sencilla: tantos pitidos como s&iacute;labas tiene la orden indicada.</strong><br><br><strong>IMPORTANTE: </strong>Puesto que no ver&aacute;s a tu interlocutor, es de vital importancia repetir cada cierto tiempo los pitidos, de modo que nos aseguremos de que no se ha perdido la comunicaci&oacute;n.</p>",
@@ -106,7 +135,7 @@
       ]
    },
    {
-      "id":8,
+      "id":10,
       "title":"Bloqueador solar",
       "img":"https://cldup.com/gi555WIves.jpg",
       "description":"<p>En monta&ntilde;a, se estima que por cada 300 metros que ascendemos, la radiaci&oacute;n ultravioleta que recibimos incrementa un 4-5%. Adem&aacute;s, si caminamos sobre la nieve, esta reflejar&aacute; sobre nosotros el 90% de la radiaci&oacute;n que recibe.<br><br>Las cremas solares est&aacute;n dise&ntilde;adas para proteger de los rayos UVA, UVB o ambos. Es importante que protejan de ambos tipos de rayos ultravioletas al mismo tiempo, porque si s&oacute;lo protegiera de los rayos UVB, evitar&iacute;a que la piel se enrojeciera, creando una falsa sensaci&oacute;n de seguridad, ya que los rayos UVA nos estar&iacute;an penetrando igualmente.<br><br>La crema debe indicar claramente de qu&eacute; tipos de rayos UV protege. Las siglas UVA, cuando se muestran dibujadas dentro de un c&iacute;rculo, indican que posee protecci&oacute;n frente a esos rayos UV pero que no est&aacute; cuantificada, a&uacute;n s&iacute;, por normativa, la protecci&oacute;n debe ser al menos de 1/3 respecto a la protecci&oacute;n que indique.<br><br>En actividades de monta&ntilde;a el sudor har&aacute; que perdamos tambi&eacute;n algo de eficacia al aplicarnos la crema solar, incluso mucho m&aacute;s en actividades acu&aacute;ticas, de ah&iacute; que el nivel de resistencia al agua sea algo a considerar a la hora de elegir la crema solar. No obstante, despu&eacute;s del ba&ntilde;o es importante volver a aplicarse la crema.<br><br><strong>Resistente al agua (Water resistant):</strong> Indica que la crema es capaz de aguantar en la piel en un alto porcentaje despu&eacute;s de una inmesi&oacute;n de 40 minutos en agua o dos inmersiones de 20 minutos en agua.<br><br><strong>Muy resistente al agua o Impermeable al agua (Water proof): </strong>Indica que la crema es capaz de aguantar en la piel en un alto porcentaje despu&eacute;s de una inmersi&oacute;n en el agua de 80 minutos o cuatro inmersiones de 20 minutos en agua.</p>",
@@ -121,7 +150,7 @@
       ]
    },
    {
-      "id":9,
+      "id":11,
       "title":"Navaja",
       "img":"https://cldup.com/9ESWLJEybV.webp",
       "description":"<p>Uno de los utensilios m&aacute;s esenciales para quien practica trekking, escalada, excursiones, o cualquier actividad al aire libre, es la navaja. Este objeto es tan importante como la propia mochila.</p>",
@@ -136,7 +165,7 @@
       ]
    },
    {
-      "id":10,
+      "id":12,
       "title":"Cuerda",
       "img":"https://cldup.com/z9d3UqtRwj.jpg",
       "description":"<p>Seg&uacute;n la actividad que vayamos a realizar debemos utilizar un tipo de cuerda u otro, ya que no todas las cuerdas est&aacute;n dise&ntilde;adas de la misma manera y nuestra seguridad depende de ellas.&nbsp;</p> <p><br></p> <p><strong>1.Cuerdas din&aacute;micas </strong></p> <p>Son cuerdas con un alto grado de elongaci&oacute;n, superior al 5%, para permitir absorber y amortiguar las ca&iacute;das. Se utilizan en escalada y alpinismo.<br><strong><br>2. Cuerdas semiest&aacute;ticas</strong><br><br>Son cuerdas con un bajo grado de elongaci&oacute;n, inferior al 5%, para progresar en monta&ntilde;a, descenso, carga de material, etc. Se utilizan en barranquismo, espeleolog&iacute;a y como cuerda fija en expediciones.<br><br><strong>3. Cuerdas est&aacute;ticas</strong><br><br>Son cuerdas con un muy bajo grado de elongaci&oacute;n, inferior al 3%. No se utilizan en actividades de monta&ntilde;a, s&oacute;lo est&aacute; permitido su uso en tirolinas, parques de aventuras o similares. Muchas veces se le llaman cuerdas est&aacute;ticas a las cuerdas de progresi&oacute;n en alta monta&ntilde;a, pero en estos casos en realidad se est&aacute; hablando de cuerdas semiest&aacute;ticas.</p>",
@@ -151,7 +180,7 @@
       ]
    },
    {
-      "id":11,
+      "id":13,
       "title":"Gafas de sol",
       "img":"https://cldup.com/3_2VaQGh5f.jpg",
       "description":"<p>Siempre es importante proteger los ojos de los rayos ultravioleta, pero en monta&ntilde;a, donde ciertos factores multiplican estos riesgos, la protecci&oacute;n debe ser a&uacute;n mayor. En la monta&ntilde;a la exposici&oacute;n a las radiaciones solares es m&aacute;s elevada que en medios cotidianos debido a la altitud y otras variables, y sus consecuencias se multiplican en terrenos nevados debido al efecto espejo del hielo y la nieve.<br><br><strong>Consejos para elegir las gafas de sol outdoor<br></strong><br>Finalmente, os proponemos una serie de consejos a seguir, adem&aacute;s de los anteriormente citados, que os ayudar&aacute;n a escoger las mejores gafas de sol outdoor:<br><br>1.Que tengan una protecci&oacute;n UV del 100%.<br><br>2.Que ofrezcan una adecuada luminosidad seg&uacute;n la actividad que vayamos a realizar.<br><br>3.Que sean c&oacute;modas y se adapten a la fisionom&iacute;a de tu cara sin dejar expuesto el ojo a merced de los agentes externos.<br><br>4.Que no se muevan y tengan una buena sujeci&oacute;n ante las condiciones m&aacute;s extremas.<br><br>5.Que est&eacute;n bien ventiladas para evitar que se empa&ntilde;en en los momentos m&aacute;s cr&iacute;ticos, incluso con alg&uacute;n tratamiento antivaho.<br><br>6.En condiciones m&aacute;s extremas, que tengan protecci&oacute;n lateral para impedir que la radiaci&oacute;n penetre por los laterales de los ojos.<br><br>Que tengan un peso adecuado.</p>",
