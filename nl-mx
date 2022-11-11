@@ -405,6 +405,86 @@
             "is_partner":false
          }
       ]
+   },
+   
+   {
+      "id":6,
+      "is_visible": true,
+      "is_qr_available": false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/kty0WNtEgM.png",
+      "synchronized":false,
+      "name":"Mirador Nido de los Aguiluchos (La ventana)",
+      "route_name":"La ventana",
+      "route_description":"<p>¿Buscas una vista alterna al canon de la Huasteca? El mirador del nido de los aguiluchos es la opción ideal para lograr esto!</p> <p><strong>&iquest;C&Oacute;MO ES LA VEREDA?</strong><br><br><strong>DIFICULTAD F&Iacute;SICA:</strong><br><br>Una vez estacionado, tendr&aacute;s que caminar por un tramo de calle y cruzar por debajo del primer puente. Despu&eacute;s hay que girar a la derecha y subir por una vereda con gran inclinaci&oacute;n. La vereda es estrecha y tiene mucha rama y espina expuesta. Eventualmente llegar&aacute;s a unas piedras grandes con grafiti es despu&eacute;s de este punto que empieza la chorreadera (tramo con piedras sueltas). La &uacute;ltima parte del camino antes de llegar a los dos miradores hacia la Huasteca es deslavada, por lo que hay poco agarre y tiene que subir cuidadosamente (viable).<br><br><strong>NIVEL T&Eacute;CNICO:</strong><br><br>Mucha piedra suelta, hay que estar vigilantes de las piedras que caigan y de anunciar en el caso de que vea que una piedra empiece a rodar.<br><strong><br>EXPOSICI&Oacute;N SOLAR</strong><br><br>El recorrido entero est&aacute; cubierto de matorrales y todo tipo de espinas. No hay &aacute;rboles que protejan del sol.</p>",
+      "cover":"https://cldup.com/KBiWtoZBVO.jpg",
+      "youtube_video":"https://youtu.be/0Em7ppZOf9c",
+      "stars":5,
+      "location":"Santa Catarina, NL",
+      "map_location":"https://goo.gl/maps/vz4WCV68hqeyXYqf6",
+      "start_location":"Constitución, Sin Nombre de Col 22, Santa Catarina, N.L.",
+      "location_description":"<p><strong>&iquest;C&Oacute;MO LLEGAR?</strong><br><br><strong>UBICACI&Oacute;N:</strong><br><br>El inicio de esta vereda est&aacute; junto a la carretera hacia Saltillo cuota. Para llegar hay que estacionarse justo antes de la carretera lateral a la de Saltillo y caminar hasta llegar al acueducto m&aacute;s cerca que pase por debajo de la carretera de Saltillo.<br><br><strong>ESTACIONAMIENTO:</strong><br><br>No hay estacionamiento especificado, por lo que tendr&aacute;s que buscar lugar disponible entre la colonia de cercan&iacute;a.<br><br><strong>COSTOS:</strong><br><br>Al d&iacute;a que se escribi&oacute; esto, no tiene precio llegar al inicio de esta cumbre.<br><br><strong>TIPO DE CARRO:</strong><br><br>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p>",
+      "wikiloc":"https://www.wikiloc.com/mountaineering-trails/nido-de-los-aguiluchos-52387937",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/mirador-nido-de-los-aguiluchos",
+      "description":"<p>El <strong>Nido de los Aguiluchos</strong> te dejar&aacute; sin aliento. Para llegar a la cima de esta emocionante aventura, tendr&aacute;s que caminar entre senderos rocosos y realizar escaladas f&aacute;ciles, &iexcl;pero valdr&aacute; la pena! Llegando a la cima contemplar&aacute;s los hermosos paisajes y tomar&aacute;s incre&iacute;bles fotos: por un lado tendremos las cordilleras que conforman la Huasteca y por otro lado la ciudad de Monterrey.</p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.6550480550758",
+      "longitude":"-100.46902696010851",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p>Aunque esta subida no tiene mucho desnivel y en realidad no es muy f&iacute;sicamente demandante, hay que tener much&iacute;simo cuidado. Tristemente ha habido ocasiones en que visitantes sufren lesiones graves e incluso mueren.<br><br>Las piedras sueltas previas al mirador son sumamente peligrosas. Siempre lleven un casco puesto en partes con chorreadero. NO suban en d&iacute;as calurosos, empiecen temprano y no tomen alcohol la noche anterior.</p>",
+      "height":"1185 msnm",
+      "only_one_way_distance":"5 km",
+      "slope":"492 m",
+      "rise_time":"1.5 hrs",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://cldup.com/bVLi0e7r-1.png",
+      "warnings":[
+         2, 4, 5, 7
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         {
+            "name":"TCNL",
+            "web":"",
+            "location":"",
+            "is_featured":false,
+            "is_partner":false
+         }
+      ]
    }
 
 ]
