@@ -26,6 +26,8 @@ Información para app de TCNL
 3. La La Viga - Los Lirios, Coah
 4. La Marta - Los Oyameles, Coah
 5. El Teleferico - Guadalupe, Nuevo León
+6. Nido de los Aguiluchos  - Santa Catarina, Nuevo León
+7. Pico Udem - San pedro GG, Nuevo León
 
 # Warning List
 
