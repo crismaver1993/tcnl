@@ -1,8 +1,8 @@
 [
    {
       "id":1,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#tcnl-piconorte #cerrolasilla #piconorte",
       "qr_url":"https://cldup.com/syiLcdqBr8.png",
       "synchronized":false,
@@ -61,7 +61,6 @@
          8,
          9,
          11
-         
       ],
       "emergency_kit":[
          1,
@@ -78,19 +77,13 @@
          6
       ],
       "agencies":[
-         {
-            "name":"TCNL",
-            "web":"",
-            "location":"",
-            "is_featured":false,
-            "is_partner":false
-         }
+         
       ]
    },
    {
       "id":2,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#tcnl-popa #lapopa",
       "qr_url":"https://cldup.com/55rZQhCVfl.png",
       "synchronized":false,
@@ -159,98 +152,86 @@
          6
       ],
       "agencies":[
-         {
-            "name":"TCNL",
-            "web":"",
-            "location":"",
-            "is_featured":false,
-            "is_partner":false
-         }
+         
       ]
    },
    {
-   "id":3,
-   "is_visible":true,
-   "is_qr_available": true,
-   "hashtags":"#wildpass #laviga",
-   "qr_url":"https://cldup.com/F5a6VD7AxC.png",
-   "synchronized":false,
-   "name":"La Viga",
-   "route_name":"Cerro San Rafael",
-   "route_description":"<p><strong>&iquest;C&Oacute;MO ES LA VEREDA?</strong><br><br><strong>DIFICULTAD F&Iacute;SICA</strong>:<br><br>Aun que la vereda est&aacute; bien marcada, esta ruta es dif&iacute;cil debido a su gran inclinaci&oacute;n y su elevaci&oacute;n sobre el nivel del mar. A partir de los 3000 metros comenzar&aacute;s a sentir los efectos de la altura. Hay que estar atentos al wikiloc para no desviarse de la ruta. Siempre tomar mucha agua e irise bien protegidos del sol.<br><br><strong>NIVEL T&Eacute;CNICO:</strong><br><br>Esta cumbre no require de experiencia t&eacute;cnica.<br><br><strong>EXPOSICI&Oacute;N SOLAR</strong><br><br>Todo el recorrido recorre un bosque de pinos. Debido a la altura, el bosque es m&aacute;s frondoso en las faldas de la monta&ntilde;a y m&aacute;s escaso al aproximarse a la cumbre.</p>",
-   "cover":"https://cldup.com/k5ndAXFFi2.jpg",
-   "youtube_video":"https://youtu.be/lvVTes_-GwI",
-   "stars":5,
-   "location":"Los Lirios, Coah",
-   "map_location":"https://goo.gl/maps/kTfDXN7wpMVeCs1n6",
-   "start_location":"25378 Arteaga, Coahuila",
-   "location_description":"<p><strong>&iquest;C&Oacute;MO LLEGAR?</strong><br><br><strong>UBICACI&Oacute;N:</strong><br><br>Para llegar al inicio de esta vereda hay que tomar la carretera hacia Saltillo y luego agarrar en direcci&oacute;n a matehuala. Ya en esta carretera tomamos la salida hacia los lirios hasta llegar a la entrada de la vereda.<br><strong><br>ESTACIONAMIENTO:</strong><br><br>El estacionamiento es frente a la iglesia de la viga.<br><br><strong>COSTOS:</strong><br><br>Si salen desde Monterrey, la carretera hacia Saltillo-cuota cuesta 106 pesos y la caseta de cobro de la carbonera 44 pesos. Hay cuota de 200 pesos para subir.<br><br><strong>TIPO DE CARRO:</strong><br><br>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p>",
-   "wikiloc":"https://www.wikiloc.com/hiking-trails/viga-desde-la-iglesia-19559242",
-   "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/la-viga",
-   "description":"<p>El cerro de La Viga es considerado la elevaci&oacute;n m&aacute;s alta de Coahuila y del noreste de M&eacute;xico, por su altitud de 3710 msnm. Es frecuentada por viajeros de Monterrey y Saltillo que buscan un lugar de entrenamiento para rutas de alta monta&ntilde;a. Tiene 1200 metros de desnivel, por lo que cuenta con impresionantes paisajes como ca&ntilde;ones, valles y cumbres.</p>",
-   "recommended_by":"TCNL",
-   "latitude":"25.363189234597144",
-   "longitude":"-100.56197580851921",
-   "validate_by_staff":false,
-   "completed":false,
-   "completed_count":0,
-   "last_completed_validated":false,
-   "first_completed_date":"",
-   "last_completed_date":"",
-   "featured":false,
-   "is_free":true,
-   "is_pet_friendly":true,
-   "rappelling":false,
-   "recommendations":"<p>El mal de altura es muy com&uacute;n, as&iacute; que se recomineda ir preparado y conocer los posibles sintomas del mal de altura.</p>",
-   "height":"3700 msnm",
-   "only_one_way_distance":"4.5 km",
-   "slope":"1180 m",
-   "rise_time":"3 hrs",
-   "difficulty":"Intensiva",
-   "difficulty_image":"https://cldup.com/Jk3dMR3f7z.png",
-   "warnings":[
-      8
-   ],
-   "things_to_take":[
-      1,
-      2,
-      3,
-      4,
-      5,
-      6,
-      7,
-      8,
-      9,
-      10
-   ],
-   "emergency_kit":[
-      1,
-      2,
-      3,
-      6
-   ],
-   "clothes":[
-      1,
-      2,
-      3,
-      4,
-      5,
-      6
-   ],
-   "agencies":[
-      {
-         "name":"TCNL",
-         "web":"",
-         "location":"",
-         "is_featured":false,
-         "is_partner":false
-      }
-   ]
-},
-{
+      "id":3,
+      "is_visible":true,
+      "is_qr_available":true,
+      "hashtags":"#wildpass #laviga",
+      "qr_url":"https://cldup.com/F5a6VD7AxC.png",
+      "synchronized":false,
+      "name":"La Viga",
+      "route_name":"Cerro San Rafael",
+      "route_description":"<p><strong>&iquest;C&Oacute;MO ES LA VEREDA?</strong><br><br><strong>DIFICULTAD F&Iacute;SICA</strong>:<br><br>Aun que la vereda est&aacute; bien marcada, esta ruta es dif&iacute;cil debido a su gran inclinaci&oacute;n y su elevaci&oacute;n sobre el nivel del mar. A partir de los 3000 metros comenzar&aacute;s a sentir los efectos de la altura. Hay que estar atentos al wikiloc para no desviarse de la ruta. Siempre tomar mucha agua e irise bien protegidos del sol.<br><br><strong>NIVEL T&Eacute;CNICO:</strong><br><br>Esta cumbre no require de experiencia t&eacute;cnica.<br><br><strong>EXPOSICI&Oacute;N SOLAR</strong><br><br>Todo el recorrido recorre un bosque de pinos. Debido a la altura, el bosque es m&aacute;s frondoso en las faldas de la monta&ntilde;a y m&aacute;s escaso al aproximarse a la cumbre.</p>",
+      "cover":"https://cldup.com/k5ndAXFFi2.jpg",
+      "youtube_video":"https://youtu.be/lvVTes_-GwI",
+      "stars":5,
+      "location":"Los Lirios, Coah",
+      "map_location":"https://goo.gl/maps/kTfDXN7wpMVeCs1n6",
+      "start_location":"25378 Arteaga, Coahuila",
+      "location_description":"<p><strong>&iquest;C&Oacute;MO LLEGAR?</strong><br><br><strong>UBICACI&Oacute;N:</strong><br><br>Para llegar al inicio de esta vereda hay que tomar la carretera hacia Saltillo y luego agarrar en direcci&oacute;n a matehuala. Ya en esta carretera tomamos la salida hacia los lirios hasta llegar a la entrada de la vereda.<br><strong><br>ESTACIONAMIENTO:</strong><br><br>El estacionamiento es frente a la iglesia de la viga.<br><br><strong>COSTOS:</strong><br><br>Si salen desde Monterrey, la carretera hacia Saltillo-cuota cuesta 106 pesos y la caseta de cobro de la carbonera 44 pesos. Hay cuota de 200 pesos para subir.<br><br><strong>TIPO DE CARRO:</strong><br><br>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p>",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/viga-desde-la-iglesia-19559242",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/la-viga",
+      "description":"<p>El cerro de La Viga es considerado la elevaci&oacute;n m&aacute;s alta de Coahuila y del noreste de M&eacute;xico, por su altitud de 3710 msnm. Es frecuentada por viajeros de Monterrey y Saltillo que buscan un lugar de entrenamiento para rutas de alta monta&ntilde;a. Tiene 1200 metros de desnivel, por lo que cuenta con impresionantes paisajes como ca&ntilde;ones, valles y cumbres.</p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.363189234597144",
+      "longitude":"-100.56197580851921",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":true,
+      "rappelling":false,
+      "recommendations":"<p>El mal de altura es muy com&uacute;n, as&iacute; que se recomineda ir preparado y conocer los posibles sintomas del mal de altura.</p>",
+      "height":"3700 msnm",
+      "only_one_way_distance":"4.5 km",
+      "slope":"1180 m",
+      "rise_time":"3 hrs",
+      "difficulty":"Intensiva",
+      "difficulty_image":"https://cldup.com/Jk3dMR3f7z.png",
+      "warnings":[
+         8
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         6
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         
+      ]
+   },
+   {
       "id":4,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass #cerrolamarta",
       "qr_url":"https://cldup.com/XKymqNKGsR.png",
       "synchronized":false,
@@ -288,7 +269,9 @@
       "difficulty":"Moderada",
       "difficulty_image":"https://cldup.com/PqsMDicTOR.png",
       "warnings":[
-        1, 5,  8
+         1,
+         5,
+         8
       ],
       "things_to_take":[
          1,
@@ -317,19 +300,12 @@
          6
       ],
       "agencies":[
-         {
-            "name":"TCNL",
-            "web":"",
-            "location":"",
-            "is_featured":false,
-            "is_partner":false
-         }
+         
       ]
    },
-   
-{
+   {
       "id":5,
-      "is_visible": true,
+      "is_visible":true,
       "hashtags":"#wildpass #elteleferico",
       "qr_url":"https://cldup.com/4qX6Mrqg0p.png",
       "synchronized":false,
@@ -397,20 +373,13 @@
          6
       ],
       "agencies":[
-         {
-            "name":"TCNL",
-            "web":"",
-            "location":"",
-            "is_featured":false,
-            "is_partner":false
-         }
+         
       ]
    },
-   
    {
       "id":6,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/kty0WNtEgM.png",
       "synchronized":false,
@@ -448,7 +417,10 @@
       "difficulty":"Moderado",
       "difficulty_image":"https://cldup.com/bVLi0e7r-1.png",
       "warnings":[
-         2, 4, 5, 7
+         2,
+         4,
+         5,
+         7
       ],
       "things_to_take":[
          1,
@@ -477,14 +449,80 @@
          6
       ],
       "agencies":[
-         {
-            "name":"TCNL",
-            "web":"",
-            "location":"",
-            "is_featured":false,
-            "is_partner":false
-         }
+         
+      ]
+   },
+   {
+      "id":7,
+      "is_visible":true,
+      "is_qr_available":false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/AySRnuSYF8.png",
+      "synchronized":false,
+      "name":"Pico Udem",
+      "route_name":"Ruta directa",
+      "route_description":"<div> <h2>C&Oacute;MO ES LA VEREDA</h2> <p><br></p> <h3>DIFICULTAD F&Iacute;SICA:</h3> <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 4 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto significa que el desnivel cae entre los 800 y 1000 metros. La subida a la cumbre comienza con una inclinaci&oacute;n bastante agradable, pero al momento de llegar a la ca&ntilde;ada (casi mitad de la ruta), el resto de la subida no tendr&aacute; tregua y ser&aacute; muy pronunciada y t&eacute;cnica. Recuerden que hay que leer el wikiloc para informaci&oacute;n a&uacute;n m&aacute;s detallada de la subida.</p> <p><br></p> <h3>NIVEL T&Eacute;CNICO:</h3> <p>Esta ruta tiene un grado t&eacute;cnico de grado C seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que en alg&uacute;n punto del ascenso hay un chorreadero peligroso. Pico udem se reconoce como un cerro peligroso debido al chorreadero que hay a mitad de la subida. En esta parte hay que saber muy bien la t&eacute;cnica de c&oacute;mo subir un chorreadero y los protocolos para avisar a los dem&aacute;s de deslaves y estar alerta de ellos tambi&eacute;n. Despu&eacute;s de pasar los chorreaderos hay varios tramos en los que hay que usar ambas manos para subir veredas con inclinaci&oacute;n muy pronunciada y resbalosas.</p> <p><br></p> <h3>EXPOSICI&Oacute;N SOLAR</h3> <p>Esta cumbre NO se debe subir en verano al menos que comienzen muy temprano (7 am) NO hay sombra en la primera parte y el sol pega muy muy fuerte. Esta vereda tiene muchos tipos de vegetaci&oacute;n, el inicio consiste de matorrales, luego se convierte en bosque seco y luego se humedece al llegar a la ca&ntilde;ada.</p> </div>",
+      "cover":"https://cldup.com/4GNoAI9s3j.jpg",
+      "youtube_video":"https://youtu.be/mk8kG-LkI5Y",
+      "stars":5,
+      "location":"San Pedro GG, NL",
+      "map_location":"https://goo.gl/maps/qfqfESUSe8A1ArVP9",
+      "start_location":"Candelaria 1114, Prados de La Sierra, 66230 San Pedro Garza García, N.L.",
+      "location_description":"<div> <h2>C&Oacute;MO LLEGAR</h2> <p><br></p> <h3>UBICACI&Oacute;N:</h3> <p>El inicio de esta vereda es muy accesible y abierto al p&uacute;blico. Subir esta cumbre no tiene precio gracias a que los propietarios del terreno en donde inicia la vereda han decidido no cobrar por el acceso. Sin embargo, hay que pagar una cuota de estacionamiento en el parque de bicis Black Bear Park. Para llegar aqu&iacute; hay que tomar la avenida Alfonso Reyes rumbo a la Huasteca y seguir google maps (o el navegador que usen) hasta llegar a una calle de terracer&iacute;a con una reja. Esta calle es la que lleva al terreno donde comienza la vereda.</p> <p><br></p> <h3>ESTACIONAMIENTO:</h3> <p>A la altura de la reja que indica el inicio de la propiedad hay un parque de bicis conocido como black bear park. Aqu&iacute; uno puede estacionarse para subir caminando hacia el helipuerto</p> <p><br></p> <h3>COSTOS:</h3> <p>Tiene un costo de $50 pesos estacionar el carro en el estacionamiento de las bicis.</p> <p><br></p> <h3>TIPO DE CARRO:</h3> <p>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p> </div>",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/pico-udem-ascenso-directo-54129115",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/pico-udem",
+      "description":"<p>Pico Udem es uno de los hikes m&aacute;s recorridos de Monterrey y con buena raz&oacute;n. Esta cumbre es sumamente divertida y ofrece hermosas vistas de la sierra madre.</p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.63724361683194",
+      "longitude":"-100.42544820900305",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"Se recomienda llevar cascos y guantes. El casco te servirá de protección porque los chorreaderos son pronunciados y los guantes te ayudarán con las cadenas",
+      "height":"1640 msnm",
+      "only_one_way_distance":"2.7 km",
+      "slope":"880 m",
+      "rise_time":"3 hrs",
+      "difficulty":"Difícil",
+      "difficulty_image":"https://cldup.com/PI-6NK6v2Z.png",
+      "warnings":[
+         2,4,7
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         
       ]
    }
-
 ]
