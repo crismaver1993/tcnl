@@ -455,7 +455,7 @@
    {
       "id":7,
       "is_visible":true,
-      "is_qr_available":false,
+      "is_qr_available":true,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/AySRnuSYF8.png",
       "synchronized":false,
