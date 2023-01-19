@@ -524,5 +524,76 @@
       "agencies":[
          
       ]
+   },
+    {
+      "id":8,
+      "is_visible": true,
+      "is_qr_available": false,
+      "hashtags":"#wildpass ",
+      "qr_url":"",
+      "synchronized":false,
+      "name":"Cerro de Schoenstatt",
+      "route_name":"",
+      "route_description":"",
+      "cover":"",
+      "youtube_video":"",
+      "stars":5,
+      "location":"Monterrey, NL",
+      "map_location":"https://goo.gl/maps/nQBdKEsGDJbHpaU76",
+      "start_location":"",
+      "location_description":"",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/cerro-de-schoenstatt-89925086",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/cerro-de-schoenstatt",
+      "description":"<p></p>",
+      "recommended_by":"TCNL",
+      "latitude":"",
+      "longitude":"",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"",
+      "height":"990 msnm",
+      "only_one_way_distance":" 2.9 km",
+      "slope":"440 m",
+      "rise_time":"1.5 horas",
+      "difficulty":"",
+      "difficulty_image":"",
+      "warnings":[
+         2
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[]
    }
 ]
