@@ -1,0 +1,24 @@
+
+[
+   {
+      "id":1,
+      "name":"",
+      "img":"",
+      "description":"",
+      "fb_fan_page_link":"",
+      "fb_fan_page_id":"",
+      "insta_link":"",
+      "insta_id":"",
+      "tiktok_link":"",
+      "tiktok_id":"",
+      "website":"",
+      "is_featured":false,
+      "is_active":false,
+      "coupon_code":"",
+      "address":"",
+      "map_link":"",
+      "wikiloc_link":"",
+      "youtube_link":"",
+      "youtube_id":""
+   }
+]
