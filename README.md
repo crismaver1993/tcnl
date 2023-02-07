@@ -30,8 +30,9 @@ Información para app de TCNL
 7. Pico Udem - San pedro GG, Nuevo León
 8. Cerro de Schoenstatt- Monterrey, Nuevo León
 9. Nariz de Moody - Rayones, Nuevo León
-10. Puerto Gringo
-11.Puerto Olmos
+10. Puerto Gringo -P
+11. Puerto Olmos-P
+12. El Musgo -P
 
 # Warning List
 
