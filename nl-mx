@@ -493,7 +493,9 @@
       "difficulty":"Difícil",
       "difficulty_image":"https://cldup.com/PI-6NK6v2Z.png",
       "warnings":[
-         2,4,7
+         2,
+         4,
+         7
       ],
       "things_to_take":[
          1,
@@ -525,10 +527,10 @@
          
       ]
    },
-    {
+   {
       "id":8,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/PvayGcfZlD.png",
       "synchronized":false,
@@ -593,12 +595,14 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
    },
-      {
+   {
       "id":9,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/hqYhCcHqx7.png",
       "synchronized":false,
@@ -636,7 +640,12 @@
       "difficulty":"Moderado",
       "difficulty_image":"https://cldup.com/taAlmO95ek.png",
       "warnings":[
-         2,4,5,6,7,9
+         2,
+         4,
+         5,
+         6,
+         7,
+         9
       ],
       "things_to_take":[
          1,
@@ -656,6 +665,292 @@
          3,
          5,
          6
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         
+      ]
+   },
+   {
+      "id":10,
+      "is_visible":true,
+      "is_qr_available":false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/tCCH95sqju.png",
+      "synchronized":false,
+      "name":"Puerto Gringo",
+      "route_name":"Ruta Santiago",
+      "route_description":"<p><strong>&iquest;DONDE ESTOY?&nbsp;</strong></p> <p>Te encuentras en el municipio de Santiago, pueblo m&aacute;gico en el estado de Nuevo Le&oacute;n. La ruta descrita es una de las m&aacute;s populares en la zona de Santiago, misma que pertenece a la Sierra Madre Oriental, ya que a esta ruta se puede llegar por 3-4 caminos distintos. Es popular en la zona porque cada ruta tiene una dificultad distinta, pero interesante en todas y cada una de sus formas de acceso.<br>&nbsp;<br><strong>DIFICULTAD F&Iacute;SICA:&nbsp;</strong></p> <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 5 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que el ascenso tiene entre 800 y 1,000 metros de desnivel. Para llegar a la cumbre la inclinaci&oacute;n es algo demandante; en promedio pueden ser desde 1:30 hasta 2:30 hr; consideramos que s&oacute;lo el &uacute;ltimo tramo (despu&eacute;s de la intersecci&oacute;n) cuenta con una inclinaci&oacute;n considerable.<br>&nbsp;<br><strong>DIFICULTAD T&Eacute;CNICA:&nbsp;</strong></p> <p>Esta ruta tiene una dificultad t&eacute;cnica de grado B seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que la ruta tiene tramos de inclinaci&oacute;n pronunciados, peque&ntilde;os tramos de piedra y tierra algo suelta (aunque no cae en la categor&iacute;a de chorreaderos), as&iacute; como tramos con mucha hoja seca de los pinos y encinos (en la altura del bosque) que al momento de descender hay que tener cuidado porque pueden haber resbalones. Usas las manos en muy pocas ocasiones y te puedes apoyar de los &aacute;rboles.<br> <strong><br>EXPOSICI&Oacute;N SOLAR:&nbsp;</strong></p> <p>Seg&uacute;n la escala de la CUMBRE COTIDIANA, el grado de exposici&oacute;n al sol es I. Pr&aacute;cticamente todo este recorrido est&aacute; cubierto de encinos y pinos que te proteger&aacute;n de los rayos solares, sin embargo, en el tramo de la terracer&iacute;a (calle) previo al inicio oficial de la vereda, es probable que te pegue algo el sol (cuando realices el descenso). Al momento de regresar a los veh&iacute;culos y justo terminando la vereda, gran parte de una barda de piedra que acaban de construir te cubrir&aacute; de los rayos solares.<br>&nbsp;<br><strong>TRAZO DE LA RUTA:</strong>&nbsp;</p> <p>La vereda est&aacute; muy bien marcada, ya que rumbo a Puerto Gringo sube mucha gente constantemente.</p>",
+      "cover":"https://cldup.com/fIEWqExaem.jpg",
+      "youtube_video":"https://youtu.be/wd6MKMOx-b4",
+      "stars":5,
+      "location":"Santiago, N.L",
+      "map_location":"https://goo.gl/maps/6SBowYPzFxQDk9X88",
+      "start_location":"Cam. Al Socavón 2013, Comunidad San Francisco, 67300 Santiago, N.L.",
+      "location_description":"<p><strong>&iquest;C&Oacute;MO LLEGAR?:&nbsp;</strong></p> <p>El inicio de esta ruta se encuentra ubicado en la calle Paseo del Llano, en el municipio de Santiago, Nuevo Le&oacute;n (seguir el camino que marca este Wikiloc para llegar al inicio del trayecto). Sabr&aacute;s que llegaste cuando ubiques una peque&ntilde;a &aacute;rea de asadores (sobre la misma calle); unos 50-100 metros adelante, sobre la misma calle, podr&aacute;s ubicar unas peque&ntilde;as instalaciones de Agua y Drenaje.<br>&nbsp;<br><strong>TIPO DE VEH&Iacute;CULO:&nbsp;</strong></p> <p>Se puede llegar en cualquier tipo de camioneta o carro; sin embargo, despu&eacute;s de la estaci&oacute;n de Agua y Drenaje sigue un camino de terracer&iacute;a que un carro no soportar&iacute;a. Con una camioneta de buen tama&ntilde;o, seguramente puedes recortar el recorrido al avanzar este tramo (le estar&iacute;as reduciendo 30-50 min. al total de tu recorrido). Nosotros no vimos lugar donde puedas dejar la camioneta despu&eacute;s de la estaci&oacute;n de Agua y Drenaje donde no se obstruya la vialidad, as&iacute; que recomendamos dejar el veh&iacute;culo en el &aacute;rea de asadores ya mencionada.<br>&nbsp;<br><strong>ESTACIONAMIENTO:&nbsp;</strong></p> <p>En dicha &aacute;rea de asadores hay suficiente espacio para unos 10 carros, aproximadamente. Es necesario dejarlos a un costado de la calle, pues es de una sola v&iacute;a y estar&iacute;as obstruyendo la vialidad. En caso de que estos lugares se encuentren ocupados, puedes encontrar lugar unas cuadras m&aacute;s abajo, sin obstruir portones de los vecinos.<br>&nbsp;<br><strong>COSTOS:&nbsp;</strong></p> <p>Al d&iacute;a que se escribi&oacute; esto (1 de febrero de 2023), no tiene ning&uacute;n costo llegar al inicio de esta ruta.</p>",
+      "wikiloc":"https://es.wikiloc.com/rutas-senderismo/puerto-gringo-por-santiago-119332919",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org",
+      "description":"<p></p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.38412709529054",
+      "longitude":"-100.1908398980809",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p><strong>ALIMENTO Y L&Iacute;QUIDOS:</strong></p> <p><br>- L&iacute;quidos: llevar como m&iacute;nimo 2 L de agua, electrolitos y una bebida energizante deportiva, as&iacute; como un suero o electrolitos.<br>- Snacks: llevar snacks salados, dulces, frutas, snacks altos en prote&iacute;na y carbs (para consumir previo al hike y en la cumbre).<br>&nbsp;<br><strong>VESTIMENTA: </strong></p> <p>Se recomienda ropa c&oacute;moda y botas o zapatos de hike con buen agarre. Si realizamos esta ruta en oto&ntilde;o o invierno, llevar buff, pantal&oacute;n y manga larga. Un gorro para realizar el recorrido tambi&eacute;n es recomendable.<br>&nbsp;<br><strong>EQUIPO ADICIONAL: </strong></p> <p>Es de mucha ayuda llevar bastones, kit de primeros auxilios, navaja, bater&iacute;a extra, l&aacute;mpara y bolsa para basura.<br>&nbsp;<br>&nbsp;<br><strong>&iexcl;ME PERD&Iacute;!</strong><br>Si est&aacute;s perdido, revisa el wikiloc para intentar orientarte, pero si realmente ya no sabes hacia d&oacute;nde dirigirte, o has sufrido un percance, no dudes en llamar al 911 y contactarte con protecci&oacute;n civil.</p> <p><br></p> <p><strong>RESE&Ntilde;A ESPEC&Iacute;FICA DE LA RUTA:</strong><br>&nbsp;<br>La ruta hacia Puerto Gringo es sin duda una de las m&aacute;s populares en el municipio de Santiago, y no est&aacute; para menos; despu&eacute;s de los tramos de terracer&iacute;a (inicio), podremos encontrar una vereda con piedras e infinidad de &aacute;rboles, que en su gran mayor&iacute;a est&aacute; compuesta de encinos y pinos. Pr&aacute;cticamente todo el recorrido, una vez adentrado en el bosque, estar&aacute;s cubierto por distintos &aacute;rboles inmensos.<br>&nbsp;<br>La ruta descrita es la m&aacute;s conocida, caminada y trazada. Existe la posibilidad de tambi&eacute;n llegar a Puerto el Gringo:</p> <ul> <li>Desde el Vitroparque el Manzano (por el &aacute;rea de caba&ntilde;as)</li> <li>Desde el mismo Vitroparque el Manzano (por la zona del lobby o entrada)</li> <li>Desde la Ci&eacute;nega de Gonz&aacute;lez</li> <li>Desde las Antenas o Puerto Olmos tambi&eacute;n puedes llegar<br>&nbsp;<br>El camino est&aacute; compuesto de piedra suelta, piedras en forma de escal&oacute;n, senderos con algo de tierra y piedra suelta, y al final, un tramo boscoso (con una inclinaci&oacute;n algo considerable). En este &uacute;ltimo tramo la pendiente promedio es de 20% (en algunas partes es m&aacute;s pronunciada que en otras).<br>&nbsp;<br><strong>TIEMPOS ESTIMADOS</strong></li> </ul> <p><br>El tiempo promedio puede ir desde 1:30 hasta 2:30 hr de ascenso, dependiendo de la condici&oacute;n f&iacute;sica del grupo o persona.</p> <p><br>1. Del &aacute;rea de asadores (inicio de ruta), hasta el t&eacute;rmino de la terracer&iacute;a (inicio de vereda): aprox. 25-40 min. (270 m metros verticales; 2 km horizontales).</p> <p><br>2. Del inicio de la vereda a la intersecci&oacute;n hacia Puerto Gringo / Puerto Olmos: 10-20 min. (120 m verticales; 500 m horizontales).</p> <p><br>3. De la intersecci&oacute;n hacia Puerto Gringo (30-45 min.).<br>&nbsp;<br><strong>PREPARACI&Oacute;N</strong></p> <p><br>Si bien no es un recorrido nivel experto, tampoco recomendamos esta ruta para principiantes. Debes de tener algo de condici&oacute;n y experiencia en monta&ntilde;as para subir a Puerto el Gringo. Considera que estar&aacute;s en movimiento, cuando menos, 3 horas; como mucho, 4 horas (en total). Existe un desgaste f&iacute;sico para llegar hasta este punto, as&iacute; que es importante tomar esto a consideraci&oacute;n previo a realizar este recorrido.&nbsp;</p> <p>Si ya has hecho recorridos como la &lsquo;V&rsquo; (Mitras), La Batea y/o Pico UDEM, este recorrido no representar&aacute; mayor problema para ti; por otro lado, si te ha costado subir al Telef&eacute;rico (cerro de la Silla), las Antenas del Mirador o templo de Schoenstatt, este recorrido seguramente va a ser complicado para ti.<br>&nbsp;<br><strong>FECHAS PARA SUBIR</strong></p> <p><br>Las fechas en las que se puede subir este cerro no est&aacute;n limitadas a cierta &eacute;poca del a&ntilde;o, as&iacute; que es un recorrido multi temporada, gracias a la inmensa cantidad de &aacute;rboles que rodean esta ruta. De todas formas, hay que estar alertas en el recorrido por posible presencia de osos, ya que hay varios en esta regi&oacute;n.</p>",
+      "height":"1970 msnm",
+      "only_one_way_distance":"",
+      "slope":"960 m",
+      "rise_time":"2.5 hrs",
+      "difficulty":"Fácil",
+      "difficulty_image":"https://cldup.com/dRsBy-J7D7.png",
+      "warnings":[
+         2,
+         4
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         6
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         
+      ]
+   },
+   {
+      "id":11,
+      "is_visible": true,
+      "is_qr_available": false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/LGjLHPue5y.png",
+      "synchronized":false,
+      "name":"Puerto Olmos",
+      "route_name":"",
+      "route_description":"<div> <h2>&iquest;C&Oacute;MO ES LA VEREDA?</h2> <p><br></p> <h3>DIFICULTAD F&Iacute;SICA:</h3> <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 4 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que el ascenso tiene entre 800 y 1,000 metros de desnivel. Para llegar a la cumbre la inclinaci&oacute;n es algo demandante; consideramos que s&oacute;lo el &uacute;ltimo tramo (bosque) cuenta con una inclinaci&oacute;n considerable. En este &uacute;ltimo tramo hay un par de ca&ntilde;adas que deben tomarse con precauci&oacute;n.</p> <p><br></p> <h3>NIVEL T&Eacute;CNICO:</h3> <p>Esta ruta tiene una dificultad t&eacute;cnica de grado B seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que la ruta tiene tramos de inclinaci&oacute;n pronunciados, peque&ntilde;os tramos de piedra y tierra algo suelta (aunque no cae en la categor&iacute;a de chorreaderos), as&iacute; como tramos con mucha hoja seca de los pinos y encinos (en la altura del bosque) que al momento de descender hay que tener cuidado porque pueden haber resbalones. Una vez pasando el bosque (al momento del ascenso), de tu lado izquierdo podr&aacute;s ver una pared de una piedra grande&hellip; Esto nos indica que ya est&aacute;s por llegar al Puerto (fin de la ruta). Antes de dar con el Puerto, hay unos ligeros escalones donde es necesario usar las manos, pero nada del otro mundo ni con exposici&oacute;n. El uso de manos implica que vas a necesitar algo de fuerza en los brazos para subir este peque&ntilde;o segmento, aunque no entra en la categor&iacute;a de escalada de piedra y tampoco encontrar&aacute;s el precipicio detr&aacute;s tuyo, sin embargo, s&iacute; necesitas algo de fuerza en tus brazos para poder trepar estos escalones.</p> <p><br></p> <h3>EXPOSICI&Oacute;N SOLAR</h3> <p>Seg&uacute;n nuestra escala, el grado de exposici&oacute;n al sol es I. Pr&aacute;cticamente todo este recorrido est&aacute; cubierto de encinos y pinos que te proteger&aacute;n de los rayos solares, sin embargo, en el tramo de la terracer&iacute;a (calle) previo al inicio oficial de la vereda, es probable que te pegue algo el sol (cuando realices el descenso). Al momento de regresar a los veh&iacute;culos y justo terminando la vereda, gran parte de una barda de piedra que acaban de construir te cubrir&aacute; de los rayos solares.</p> </div>",
+      "cover":"https://cldup.com/TBItZP5lWI.jpg",
+      "youtube_video":"https://youtu.be/WWvQgWKF8rY",
+      "stars":5,
+      "location":"Santiago, NL",
+      "map_location":"https://goo.gl/maps/6SBowYPzFxQDk9X88",
+      "start_location":"P.º del Llano, Nuevo León",
+      "location_description":"<div> <h2>&iquest;C&Oacute;MO LLEGAR?</h2> <p><br></p> <h3>UBICACI&Oacute;N:</h3> <p>Se puede llegar en cualquier tipo de camioneta o carro; sin embargo, despu&eacute;s de la estaci&oacute;n de Agua y Drenaje sigue un camino de terracer&iacute;a que un carro no soportar&iacute;a. Con una camioneta de buen tama&ntilde;o, seguramente puedes recortar el recorrido al avanzar este tramo (le estar&iacute;as reduciendo 30-50 min. al total de tu recorrido). Nosotros no vimos lugar donde puedas dejar la camioneta despu&eacute;s de la estaci&oacute;n de Agua y Drenaje donde no se obstruya la vialidad, as&iacute; que recomendamos dejar el veh&iacute;culo en el &aacute;rea de asadores ya mencionada.</p> <p><br></p> <h3>ESTACIONAMIENTO:</h3> <p>En dicha &aacute;rea de asadores hay suficiente espacio para unos 10 carros, aproximadamente. Es necesario dejarlos a un costado de la calle, pues es de una sola v&iacute;a y estar&iacute;as obstruyendo la vialidad. En caso de que estos lugares se encuentren ocupados, puedes encontrar lugar unas cuadras m&aacute;s abajo, sin obstruir portones de los vecinos.</p> <p><br></p> <h3>COSTOS:</h3> <p>Al d&iacute;a que se escribi&oacute; esto (10 de agosto de 2023), no tiene ning&uacute;n costo llegar al inicio de esta ruta.</p> <p><br></p> <h3>TIPO DE CARRO:</h3> <p>El inicio de esta ruta se encuentra ubicado en la calle Paseo del Llano, en el municipio de Santiago, Nuevo Le&oacute;n (seguir el camino que marca este Wikiloc para llegar al inicio del trayecto). Sabr&aacute;s que llegaste cuando ubiques una peque&ntilde;a &aacute;rea de asadores (sobre la misma calle); unos 50-100 m adelante, sobre la misma calle, podr&aacute;s ubicar unas peque&ntilde;as instalaciones de Agua y Drenaje.</p> </div>",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/puerto-olmos-santiago-n-l-88997093",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/puerto-olmos",
+      "description":"<p>Puerto Olmos tiene vistas a desde Monterrey hasta Allende y esta ubicado justo en las cordilleras de la sierra de Santiago</p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.390155397897033",
+      "longitude":"-100.18842418439684",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p><strong>RECURSOS Y PUNTOS IMPORTANTES PARA CONSIDERAR PREVIO A ESTE HIKE</strong></p> <ul> <li>&nbsp;Peso de mochila: en un recorrido a Puerto Olmos, el peso de la mochila no debe de exceder los 5 kg.</li> <li>L&iacute;quidos: llevar como m&iacute;nimo 2 L de agua, electrolitos y una bebida energizante deportiva.</li> <li>Snacks: llevar snacks salados, dulces, frutas, snacks altos en prote&iacute;na y carbs (para consumir previo al hike y en la cumbre).</li> <li>Ropa: se recomienda ropa c&oacute;moda y botas o zapatos de hike con buen agarre. Si realizas esta ruta en oto&ntilde;o o invierno, llevar buff, pantal&oacute;n y manga larga.</li> <li>Equipo adicional: es de mucha ayuda llevar bastones, kit de primeros auxilios, navaja, bater&iacute;a extra, l&aacute;mpara y bolsa para basura.<br>&nbsp;<br><strong>RESE&Ntilde;A:</strong></li> </ul> <p><br>Uno de los recorridos m&aacute;s bellos y boscosos que el municipio de Santiago nos regala: la ruta hacia Puerto Olmos es magn&iacute;fica; despu&eacute;s de los tramos de terracer&iacute;a (inicio), podremos encontrar una vereda con piedras e infinidad de &aacute;rboles, que en su gran mayor&iacute;a est&aacute; compuesta de encinos y pinos.<br>&nbsp;<br>La ruta descrita es la m&aacute;s conocida y trazada. Existe la posibilidad de tambi&eacute;n llegar a Puerto Olmos despu&eacute;s de haber llegado a las Antenas, pero aqu&iacute; nos enfocaremos en la ruta directa desde el camino de terracer&iacute;a de la calle Paseo del Llano hasta dicho Puerto.<br>&nbsp;<br>En general, el recorrido cuenta con diversas ca&ntilde;adas despu&eacute;s de la subdivisi&oacute;n entre Puerto Gringo y Puerto Olmos (tomar camino hacia la izquierda para ir a Puerto Olmos &ndash; revisar en waypoints donde se puede ver las piedras pintadas). El camino est&aacute; compuesto de piedra suelta, piedras en forma de escal&oacute;n, senderos con algo de tierra y piedra suelta, y al final, un tramo boscoso (con una inclinaci&oacute;n algo considerable). En este &uacute;ltimo tramo la pendiente promedio es de 20% (en algunas partes es m&aacute;s pronunciada que en otras), ya que vas a subir aprox. 380 m. de desnivel (metros verticales) en una distancia de aproximadamente 2.5 km horizontales.<br>&nbsp;<strong><br>TIEMPOS ESTIMADOS</strong></p> <p><br>El tiempo promedio puede ir desde 1:30 hasta 2:30 hr de ascenso, dependiendo de la condici&oacute;n f&iacute;sica del grupo o persona.</p> <p><br>1. Del &aacute;rea de asadores (inicio de ruta), hasta el t&eacute;rmino de la terracer&iacute;a (inicio de vereda): aprox. 25-40 min. (270 m metros verticales; 2 km horizontales).</p> <p><br>2. Del inicio de la vereda a la intersecci&oacute;n hacia Puerto Gringo / Puerto Olmos: 10-20 min. (120 m verticales; 500 m horizontales).</p> <p><br>3. De la intersecci&oacute;n hacia inicio del Bosque: 15-25 min. (120 m verticales; 900 m horizontales).</p> <p><br>4. Del inicio del Bosque al Puerto: 30-40 min. (250 m verticales; 1 km horizontal).</p> <p><br>&nbsp;<strong><br>PREPARACI&Oacute;N</strong></p> <p><br>Si bien no es un recorrido nivel experto, tampoco recomendamos esta ruta para principiantes. Debes de tener algo de condici&oacute;n y experiencia en monta&ntilde;as para subir a Puerto Olmos. Considera que estar&aacute;s en movimiento, cuando menos, 3 horas; como mucho, 4 horas (en total). Existe un desgaste f&iacute;sico para llegar hasta este punto, as&iacute; que es importante tomar esto a consideraci&oacute;n previo a realizar este recorrido. Si ya has hecho recorridos como la &lsquo;V&rsquo; (Mitras), La Batea y/o Pico UDEM, este recorrido no representar&aacute; mayor problema para ti; por otro lado, si te ha costado subir al Telef&eacute;rico (cerro de la Silla), las Antenas del Mirador o templo de Schoenstatt, este recorrido seguramente va a ser complicado para ti.<br><strong>&nbsp;<br>FECHAS PARA SUBIR</strong></p> <p><br>Las fechas en las que se puede subir este cerro no est&aacute;n limitadas a cierta &eacute;poca del a&ntilde;o, as&iacute; que es un recorrido multi temporada, gracias a la inmensa cantidad de &aacute;rboles que rodean esta ruta. De todas formas, hay que estar alertas en el recorrido por posible presencia de osos, ya que hay varios en esta regi&oacute;n.<br>&nbsp;</p> <p><br><strong>Rese&ntilde;a por @jorgepinia</strong></p>",
+      "height":"1554 msnm",
+      "only_one_way_distance":"8 km",
+      "slope":"850 m",
+      "rise_time":"2.5 hrs",
+      "difficulty":"",
+      "difficulty_image":"",
+      "warnings":[
+         2,4
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[]
+   },
+   {
+      "id":12,
+      "is_visible": true,
+      "is_qr_available": false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/g0u3Qnpz0F.png",
+      "synchronized":false,
+      "name":"El Musgo",
+      "route_name":"Por San Juan",
+      "route_description":" <div> <h2>&iquest;C&Oacute;MO ES LA VEREDA?</h2> <p><br></p> <h3>DIFICULTAD F&Iacute;SICA:</h3> <p>Este ascenso tiene una dificultad f&iacute;sica de 4 ya que est&aacute; entre los 800 y 1000 metros de desnivel. Hay que tomar en cuenta que por gran parte del ascenso estar&aacute;s a m&aacute;s de 2500 metros sobre el nivel del mar y puedes comenzar a sentir los efectos del mal de altura. Lee nuestras recomendaciones sobre c&oacute;mo actuar ante esta situaci&oacute;n.</p> <p><br></p> <h3>NIVEL T&Eacute;CNICO:</h3> <p>Este ascenso tiene una dificultad t&eacute;cnica de B casi aproxim&aacute;ndose a un C. Esto implica que hay partes del camino que son o inestables o muy empinadas. La dificultad t&eacute;cnica es casi aproxim&aacute;ndose a un C porque hay unos tramos que no son chorreaderos pero tienen algunas piedras sueltas que pudieran causar accidentes.</p> <p><br></p> <h3>EXPOSICI&Oacute;N SOLAR</h3> <p>No hay mucha sombra durante la subida pero llegando a la meseta sigues la cresta por un bosque frondoso. Hay que tener cuidado en la bajada de no sufrir de un golpe de calor al estar cruzando por partes expuestas al sol.</p> </div>",
+      "cover":"https://cldup.com/wp8wqPngzh.jpg",
+      "youtube_video":"https://youtu.be/rLe-btKrI9w",
+      "stars":5,
+      "location":"Arteaga, Coah",
+      "map_location":"https://goo.gl/maps/pYdzVAefXERyxfKo9",
+      "start_location":"25364 San Juan de los Dolores, Coah.",
+      "location_description":"<div> <div> <div> <div> <div> <div> <h2>&iquest;C&Oacute;MO LLEGAR?</h2> <p><br></p> <h3>UBICACI&Oacute;N:</h3> <p>Para llegar al pueblo de san juan de los dolores hay que tomar la salida hacia los lirios desde la carretera hacia Matehuala. En vez de manejar en direcci&oacute;n a los lirios habr&aacute; que desviarse a mano izquierda en direcci&oacute;n a San Juan de los Dolores. Est&aacute; ubicado en una cordillera antes que los lirios.</p> <p><br></p> <h3>ESTACIONAMIENTO:</h3> <p>El estacionamiento queda junto a un parque del mismo ejido de San Juan de los Dolores. Recuerden que siempre deben preguntarle a los lugare&ntilde;os si no hay problema en estacionarse ah&iacute;. Estamos de invitados en sus propiedades y debemos ser cordiales.</p> <p><br></p> <h3>COSTOS:</h3> <p>A la fecha que se escribi&oacute; esto (22/09/2022) no tiene ning&uacute;n costo llegar a esta ubicaci&oacute;n.</p> <p><br></p> <h3>TIPO DE CARRO:</h3> <p>No se requiere camioneta ni menos 4x4 para llegar al inicio de esta vereda.</p> </div> </div> </div> </div> </div> </div>",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/el-musgo-por-san-juan-de-los-dolores-78251980#lb-embed",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/el-musgo",
+      "description":"<p>Visita el musgo y conoce dos minas espectaculares dentro del municipio de arteaga y un bosque de pinos hermoso! </p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.438731998986565",
+      "longitude":"-100.5475253645306",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p><strong>TRAZO DE RUTA:</strong></p> <p><br>La ruta no es perdediza pero s&iacute; hay varias desviaciones de otras veredas que se juntan con la principal que les compartimos. Hay que estar atentos con el objetivo para decidir hacia qu&eacute; direcci&oacute;n dirigirse al llegar a cualquier entronque. Como medida de seguridad siempre tengan descargado la ruta de wikiloc, es totalmente gratis si siguen nuestro perfil ORG.<br><strong>&nbsp;<br>EQUIPO Y VESTIMENTA:</strong></p> <ul> <li>3 Litros de Agua</li> <li>Manga larga</li> <li>Pantal&oacute;n largo</li> <li>Zapatos con agarre</li> <li>Snacks altos en calor&iacute;as (nueces, etc)</li> <li>Fruta</li> <li>Snacks dulcea<br><br>Los 10 b&aacute;sicos de cada recorrido</li> </ul>",
+      "height":"3250 msnm",
+      "only_one_way_distance":"5.5 km",
+      "slope":"950 m",
+      "rise_time":"2 hrs",
+      "difficulty":"Moderada",
+      "difficulty_image":"https://cldup.com/gaTLuUAHBG.png",
+      "warnings":[
+         1,2,3,4,5,6,7,8,9
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10,11,13
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         5,6
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[]
+   },
+   {
+      "id":13,
+      "is_visible": true,
+      "is_qr_available": false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/hi_jjCfJlv.png",
+      "synchronized":false,
+      "name":"La Mota Grande",
+      "route_name":"",
+      "route_description":"<div> <h2>&iquest;C&Oacute;MO ES LA VEREDA?</h2> <p><br></p> <h3>DIFICULTAD F&Iacute;SICA:</h3> <p>El recorrido empieza suave con poco pendiente pero va gradualmente incrementando. EL camino est&aacute; bien marcado, pero de igual forma hay que estar pendientes y cargar con un dispositivo gps. OJO se llega a una cumbre falsa donde hay una cruz, esto se considera como el punto en medio y gran lugar para tomar un descanso de agua.</p> <p><br></p> <h3>NIVEL T&Eacute;CNICO:</h3> <p>Esta cumbre no require de experiencia t&eacute;cnica.</p> <p><br></p> <h3>EXPOSICI&Oacute;N SOLAR</h3> <p>Su temperatura media anual es de 18&ordm;C, sensaci&oacute;n des&eacute;rtica, poco &aacute;rbol, mucho arbusto. En la cumbre de este recorrido encontrar&aacute;s pinos entre otra flora del municipio que incluye elizote, mezquite, u&ntilde;a de gato, &eacute;bano, palo verde, vara dulce, saladilla y gobernadora.</p> </div> <p><strong>&iquest;D&Oacute;NDE ESTOY?</strong>&nbsp;</p> <p>Te encuentras en el municipio de Garc&iacute;a, NL, en la localidad de Rinconada. Muy cerca de estos rumbos se encuentran el Ca&ntilde;&oacute;n de las Mariposas (en el mismo Rinconada); del otro lado de la carretera (al sur), se encuentra el Paso del Caballero y &apos;La Calle&apos;, recorridos populares de la zona.<br>&nbsp;<br><strong>DIFICULTAD F&Iacute;SICA:</strong>&nbsp;</p> <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 5 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que el ascenso tiene entre 600 y 800 metros de desnivel positivo. En general es un ascenso demandante por su nivel de inclinaci&oacute;n; en promedio son 2 horas de ascenso a buen ritmo (pr&aacute;cticamente sin descansos mayores a 3-5 min.) y se recomienda solamente subir este cerro si has realizado recorridos con el mismo desnivel positivo o similar, aparte de tener experiencia en descensos a buena velocidad. Es preferible calcular tus tiempos para que el descenso lo termines a m&aacute;s tardar a mediod&iacute;a. Se recomienda comenzar antes de las 7 am debido a la alta exposici&oacute;n al sol. Definitivamente NO es un recorrido para principiantes o gente con poca experiencia en la monta&ntilde;a.<br>&nbsp;<br><strong>DIFICULTAD T&Eacute;CNICA:&nbsp;</strong></p> <p>Esta ruta tiene una dificultad t&eacute;cnica de grado B seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. En general, el ascenso es con una inclinaci&oacute;n pronunciada, pero el tramo completo hasta lograr cumbre est&aacute; muy bien marcado. El camino est&aacute; mayormente compuesto de piedras sueltas, pero tambi&eacute;n la mitad del tramo cuenta con tramos pedregosos que permiten un excelente agarre en los pies (con el zapato adecuado para monta&ntilde;a). Al momento de descender es necesario tomar precauci&oacute;n, ya que en algunos tramos las piedras sueltas pueden propiciar a resbalones, y el tramo entre la primera explanada y &ldquo;Puerto Pepe&rdquo; puede estar un poco expuesto en algunas secciones.<br>&nbsp;<br><strong>TRAZO DE RUTA:&nbsp;</strong></p> <p>Por el trazo de ruta no tendr&aacute;s mayor problema. Despu&eacute;s de encontrar el camino donde inicia la vereda, en general el camino est&aacute; muy marcado. Sin embargo, siempre es obligatorio ir acompa&ntilde;ado a la monta&ntilde;a de gente experimentada en identificar veredas y con un buen sentido de orientaci&oacute;n (grupos m&iacute;nimo de 3 personas).<br>&nbsp;<br><strong>EXPOSICI&Oacute;N SOLAR:</strong></p> <p>Acorde a nuestra escala de medici&oacute;n, el grado de exposici&oacute;n al sol de esta ruta es de III. Si no te gustan los hikes donde te pega el sol, ESTE RECORRIDO NO ES PARA TI. Solamente podr&aacute;s resguardarte de los rayos solares en la cumbre (donde se encuentra un c&uacute;mulo de pinos -mota-). Es importante resaltar que este recorrido est&aacute; COMPLETAMENTE expuesto a los rayos solares, esto significa que en todo el trayecto no encontrar&aacute;s alg&uacute;n &aacute;rbol para resguardarse, salvo hasta la cumbre. Ideal comenzar este recorrido antes de las 7am en tiempos de primavera, y en horario de oto&ntilde;o-invierno recomendamos que se comience a las 6am (dado que amanece m&aacute;s temprano). No recomendamos en lo absoluto realizar este recorrido en verano.<br>&nbsp;<br><strong>ALIMENTO Y L&Iacute;QUIDOS: </strong></p> <p>Cena una noche antes rica en carbohidratos, sodio y prote&iacute;nas. En este recorrido perderemos muchos l&iacute;quidos y minerales debido a la alta exposici&oacute;n al sol, entonces hay que preparar a nuestro cuerpo lo m&aacute;s que se pueda.<br>L&iacute;quidos: llevar como m&iacute;nimo 3 L de agua. Los electrolitos y una bebida energizante deportiva tambi&eacute;n pueden ser de gran ayuda.<br>Snacks: llevar snacks salados, dulces, frutas, snacks altos en prote&iacute;na y carbs (para consumir en la cumbre y poder obtener algo de energ&iacute;a para el descenso).</p> <p><br>&nbsp;<br><strong>VESTIMENTA:&nbsp;</strong></p> <p>Se recomienda gorro, buff, manga larga (dry-fit), pantal&oacute;n, botas/zapatos de hike y mochila.<br>&nbsp;<br><strong>EQUIPO ADICIONAL: </strong></p> <p>Es de ayuda llevar bastones (pero no obligatorio); kit de primeros auxilios, navaja, bater&iacute;a extra, bloqueador y bolsa para basura.</p>",
+      "cover":"https://cldup.com/3oNoyHrUZU.jpg",
+      "youtube_video":"https://youtu.be/bRBtJh5N3ak",
+      "stars":5,
+      "location":"García, NL",
+      "map_location":"https://goo.gl/maps/HeSi6cPsiZpNtXnB9",
+      "start_location":"Manuel Mederos, Rinconada, 66010 Pesquería, N.L.",
+      "location_description":"<div> <h2>&iquest;C&Oacute;MO LLEGAR?</h2> <p><br></p> <h3>UBICACI&Oacute;N:</h3> <p>Para llegar al inicio de esta vereda hay que tomarla carretera libre hacia Saltillo. Hay que seguir esta carretera hasta llegar a la vuelta en direccion a un pueblo conocido como Rinconada.</p> <p><br></p> <h3>ESTACIONAMIENTO:</h3> <p>Uno se puede estacionar en la iglesia del pueblo siempre y cuando haya suficientes lugares.</p> <p><br></p> <h3>COSTOS:</h3> <p>Depende de las carreteras que escoges para llegar al cerro, las casetas pueden llegar a costar 70 pesos ida y vuelta. (Si utilizas la carretera hacia Saltillo cuota)</p> <p><br></p> <h3>TIPO DE CARRO:</h3> <p>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p> </div>",
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/la-mota-grande-ruta-directa-por-rinconada-89049129",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/la-mota-grande",
+      "description":"<p>Nombrado así por el mechón de árboles en su cumbre, La Mota Grande es uno de nuestros favoritos hikes de García. </p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.70504363145371",
+      "longitude":"-100.74479865746238",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p><strong>Tips importantes para este recorrido:</strong></p> <p><br>1. Este recorrido no es dif&iacute;cil, pero tampoco f&aacute;cil. No recomendamos que vaya gente sin experiencia en recorridos de monta&ntilde;a.</p> <p><br>2. Atenci&oacute;n especial a las v&iacute;boras de cascabel. En esta ruta frecuentan mucho debido a la alta exposici&oacute;n al sol.</p> <p><br>3. Portar bloqueador.</p> <p><br>4. Buen calzado con agarre para poder realizar un descenso efectivo, seguro y relativamente r&aacute;pido. Sin buenos zapatos para hike puedes resbalar y hay tramos donde puede estar expuesta la vereda.</p> <p><br>5. Importante portar pantal&oacute;n para las espinas y manga larga para reducir en mayor medida los rayos solares.</p> <p><br>6. Preferible realizar este hike en d&iacute;as nublados. Si vas a realizar este recorrido en un d&iacute;a soleado, procura que sea con una temperatura no mayor a 23&deg;C, ya que el sol es un factor muy importante a considerar.</p> <p><br>7. Comenzar lo m&aacute;s temprano posible.</p> <p><br>8. Procura voltear hacia tus alrededores mientras realizas tu ascenso y descenso para que puedas presenciar las magn&iacute;ficas vistas que te regala el cerro de la Mota Grande.<br>&nbsp;</p> <p><br><strong>RESE&Ntilde;A ESPEC&Iacute;FICA DE ESTE RECORRIDO:</strong></p> <p><br>Este cerro te va a regalar unas vistas &uacute;nicas y podr&aacute;s obtener tomas muy especiales. Desde la cumbre de La Mota Grande obtendr&aacute;s panor&aacute;micas con un alcance 270&deg; - esto quiere decir que podr&aacute;s visualizar desde la zona de Saltillo/Ramos Arizpe, la Sierra Madre Oriental (cumbres de &ldquo;La Calle&rdquo;, el Paso del Caballero hacia el sureste de la cumbre); las Mitras y todos sus picos, el Cerro de la Silla de frente, y claro, el ic&oacute;nico Sapo de la Sierra el Fraile.</p> <p><br>Rumbo a Saltillo se encuentra Rinconada, ejido o pueblo que forma parte del municipio de Garc&iacute;a, Nuevo Le&oacute;n. Si vienes de Monterrey, sales a la derecha sobre la carretera; si vienes de Saltillo, es necesario tomar un retorno (hacia la izquierda) a la altura de Casa Blanca, en el Oxxo Fierro Norte (con precauci&oacute;n brincar hacia la lateral). La calle del pueblo te lleva directo hacia donde se ubica la Plaza donde normalmente se dejan los veh&iacute;culos.<br><strong>&nbsp;<br>TIEMPOS DEL RECORRIDO</strong></p> <p><br>El tiempo promedio de ascenso puede ser desde 2 hasta 3:30 horas de ascenso, dependiendo de la condici&oacute;n f&iacute;sica del grupo o persona.<br>1. De donde comienza la vereda hasta la primera explanada, calcula aprox. 25-35 min.<br>2. De la primera explanada hasta Puerto Pepe, calcula aprox. 30-40 min.<br>3. De Puerto Pepe a la primera ladera, 15-20 min.<br>4. De la primera ladera hasta la segunda explanada, 20-25 min.<br>5. De la segunda explanada hasta la cumbre, 25-35 min.<br>El descenso puede hacerse con muy buena condici&oacute;n y t&eacute;cnica entre 50 minutos y 1:20 horas. Por otro lado, a un paso m&aacute;s lento pero constante, el descenso no deber&iacute;a de ser mayor a las 2:15 horas.<br> <strong><br>&Eacute;POCAS DEL A&Ntilde;O PARA LA MOTA GRANDE</strong></p> <p><br>Las fechas que se debe de subir este cerro es entre octubre y a m&aacute;s tardar abril; NO intentar este cerro entre mayo y septiembre por los rayos solares y altas temperaturas de la zona. Procura revisar el pron&oacute;stico del clima previo a subir este cerro. Tambi&eacute;n descarta por completo subirlo con lluvia porque ser&iacute;a peligroso.<br>&nbsp;<br><strong>DESCRIPCI&Oacute;N DEL RECORRIDO POR PARTES</strong></p> <p><br>En Wikiloc podr&aacute;s encontrar varios perfiles de esta ruta. Algunos la consideran f&aacute;cil, dado que son gente experimentada. <strong>CUMBRE COTIDIANA</strong><strong>&nbsp;no considera este recorrido apto para gente sin experiencia</strong>, as&iacute; que toma en cuenta las siguientes consideraciones:<br>&nbsp;<br>1. De la plaza hacia el inicio de la vereda: es un tramo de menos de 10 min. Tomar&aacute; inicialmente un tramo de menos de 100 m. de calle para luego adentrarse en el arroyo lleno de terracer&iacute;a con piedra bola. Seguir el camino marcado e irse cargando a la derecha para encontrar la intersecci&oacute;n donde comienza la vereda (ver waypoints).<br>&nbsp;<br>2. Del inicio de la vereda hasta la primera explanada (25-35 min.): la inclinaci&oacute;n a&uacute;n no es tan considerable, pero este tramo nos ayudar&aacute; a ir calentando motores para lo pesado que viene despu&eacute;s de esto. Este tramo es el m&aacute;s amplio del recorrido, compuesto de piedra suelta en su mayor&iacute;a.<br>&nbsp;<br>3. De la primera explanada hasta Puerto Pepe (30-40 min.): desde la primera explanada podr&aacute;s ver hacia el Puerto (podr&aacute;s apreciarla f&aacute;cilmente si no te toca nublado - revisar waypoints). Este tramo es el que tiene mayor inclinaci&oacute;n (pendiente de 25-35% de inclinaci&oacute;n). Si te sientes agitado en alg&uacute;n momento, te recomendamos detenerte a tomar algo de aire. La vereda sigue estando muy marcada, pero en este tramo hay mucha espina debido a la alta cantidad de lechuguillas, agaves y nopales.<br>&nbsp;<br>4. De Puerto Pepe a la primera ladera (15-20 min.): este peque&ntilde;o sendero comienza con unos 200 m de tramo plano. Despu&eacute;s de 5 min. por este tramo comienza a volver a subir la inclinaci&oacute;n de nuevo hasta llegar a un mini puerto donde podr&aacute;s ver el Sapo muy claramente (ver waypoints).<br>&nbsp;<br>5. De la primera ladera hasta la segunda explanada (20-25 min.): inclinaci&oacute;n no mayor a 25%, pero de todas formas algo pesada. Llegar&aacute;s a otro peque&ntilde;o mirador donde podr&aacute;s apreciar ya muy claramente la cumbre (mota de pinos).<br>&nbsp;<br>6. De la segunda explanada o mirador hasta la cumbre (25-35 min.): si te cost&oacute; llegar hasta este punto, trata de tomar aire, porque este &uacute;ltimo tramo puede ser algo psicol&oacute;gico para ti. La inclinaci&oacute;n va a ser considerable en algunos segmentos de esta parte (30-35%). A paso lento, pero constante y seguro, no deber&iacute;as de hacer m&aacute;s de media hora o 25 min. en este tramo para lograr cumbre.<br>&nbsp;<br>Una vez en cumbre, cuida mucho la mota de pinos que eres digno de presenciar - este es un lugar muy bonito e ideal para tomar el break en el pico y consumir alimentos/bebidas. La mota de pinos te resguardar&aacute; de los rayos solares para agarrar energ&iacute;a y comenzar a descender. Evitar a toda costa colgarse de la cruz ubicada en la cumbre.<br>&nbsp;<br><strong>SIEMPRE RECOGE TU BASURA Y SI VES OTRA EN EL PISO, &iexcl;POR FAVOR AY&Uacute;DANOS EN LLEV&Aacute;RSELA!</strong><br>&nbsp;<br>&nbsp;<br>Rese&ntilde;a por <strong>@jorgepinia y @angie_guzman7</strong></p>",
+      "height":"1840 msnm",
+      "only_one_way_distance":"3.5 km",
+      "slope":"830 m",
+      "rise_time":"2 hrs",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://cldup.com/ZZbi_InJ1b.png",
+      "warnings":[
+         2,4
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         1,
+         2,
+         3,
+         4
       ],
       "clothes":[
          1,
