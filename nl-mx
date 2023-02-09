@@ -493,7 +493,9 @@
       "difficulty":"Difícil",
       "difficulty_image":"https://cldup.com/PI-6NK6v2Z.png",
       "warnings":[
-         2,4,7
+         2,
+         4,
+         7
       ],
       "things_to_take":[
          1,
@@ -525,10 +527,10 @@
          
       ]
    },
-    {
+   {
       "id":8,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/PvayGcfZlD.png",
       "synchronized":false,
@@ -593,12 +595,14 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
    },
-      {
+   {
       "id":9,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/hqYhCcHqx7.png",
       "synchronized":false,
@@ -636,7 +640,12 @@
       "difficulty":"Moderado",
       "difficulty_image":"https://cldup.com/taAlmO95ek.png",
       "warnings":[
-         2,4,5,6,7,9
+         2,
+         4,
+         5,
+         6,
+         7,
+         9
       ],
       "things_to_take":[
          1,
@@ -665,6 +674,79 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
+   },
+   {
+      "id":10,
+      "is_visible":true,
+      "is_qr_available":false,
+      "hashtags":"#wildpass ",
+      "qr_url":"https://cldup.com/tCCH95sqju.png",
+      "synchronized":false,
+      "name":"Puerto Gringo",
+      "route_name":"Ruta Santiago",
+      "route_description":"<p><strong>&iquest;DONDE ESTOY?&nbsp;</strong></p> <p>Te encuentras en el municipio de Santiago, pueblo m&aacute;gico en el estado de Nuevo Le&oacute;n. La ruta descrita es una de las m&aacute;s populares en la zona de Santiago, misma que pertenece a la Sierra Madre Oriental, ya que a esta ruta se puede llegar por 3-4 caminos distintos. Es popular en la zona porque cada ruta tiene una dificultad distinta, pero interesante en todas y cada una de sus formas de acceso.<br>&nbsp;<br><strong>DIFICULTAD F&Iacute;SICA:&nbsp;</strong></p> <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 5 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que el ascenso tiene entre 800 y 1,000 metros de desnivel. Para llegar a la cumbre la inclinaci&oacute;n es algo demandante; en promedio pueden ser desde 1:30 hasta 2:30 hr; consideramos que s&oacute;lo el &uacute;ltimo tramo (despu&eacute;s de la intersecci&oacute;n) cuenta con una inclinaci&oacute;n considerable.<br>&nbsp;<br><strong>DIFICULTAD T&Eacute;CNICA:&nbsp;</strong></p> <p>Esta ruta tiene una dificultad t&eacute;cnica de grado B seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto implica que la ruta tiene tramos de inclinaci&oacute;n pronunciados, peque&ntilde;os tramos de piedra y tierra algo suelta (aunque no cae en la categor&iacute;a de chorreaderos), as&iacute; como tramos con mucha hoja seca de los pinos y encinos (en la altura del bosque) que al momento de descender hay que tener cuidado porque pueden haber resbalones. Usas las manos en muy pocas ocasiones y te puedes apoyar de los &aacute;rboles.<br> <strong><br>EXPOSICI&Oacute;N SOLAR:&nbsp;</strong></p> <p>Seg&uacute;n la escala de la CUMBRE COTIDIANA, el grado de exposici&oacute;n al sol es I. Pr&aacute;cticamente todo este recorrido est&aacute; cubierto de encinos y pinos que te proteger&aacute;n de los rayos solares, sin embargo, en el tramo de la terracer&iacute;a (calle) previo al inicio oficial de la vereda, es probable que te pegue algo el sol (cuando realices el descenso). Al momento de regresar a los veh&iacute;culos y justo terminando la vereda, gran parte de una barda de piedra que acaban de construir te cubrir&aacute; de los rayos solares.<br>&nbsp;<br><strong>TRAZO DE LA RUTA:</strong>&nbsp;</p> <p>La vereda est&aacute; muy bien marcada, ya que rumbo a Puerto Gringo sube mucha gente constantemente.</p>",
+      "cover":"https://cldup.com/fIEWqExaem.jpg",
+      "youtube_video":"https://youtu.be/wd6MKMOx-b4",
+      "stars":5,
+      "location":"Santiago, N.L",
+      "map_location":"https://goo.gl/maps/Y2dcVGn2uxU3yQSTA",
+      "start_location":"Cam. Al Socavón 2013, Comunidad San Francisco, 67300 Santiago, N.L.",
+      "location_description":"<p><strong>&iquest;C&Oacute;MO LLEGAR?:&nbsp;</strong></p> <p>El inicio de esta ruta se encuentra ubicado en la calle Paseo del Llano, en el municipio de Santiago, Nuevo Le&oacute;n (seguir el camino que marca este Wikiloc para llegar al inicio del trayecto). Sabr&aacute;s que llegaste cuando ubiques una peque&ntilde;a &aacute;rea de asadores (sobre la misma calle); unos 50-100 metros adelante, sobre la misma calle, podr&aacute;s ubicar unas peque&ntilde;as instalaciones de Agua y Drenaje.<br>&nbsp;<br><strong>TIPO DE VEH&Iacute;CULO:&nbsp;</strong></p> <p>Se puede llegar en cualquier tipo de camioneta o carro; sin embargo, despu&eacute;s de la estaci&oacute;n de Agua y Drenaje sigue un camino de terracer&iacute;a que un carro no soportar&iacute;a. Con una camioneta de buen tama&ntilde;o, seguramente puedes recortar el recorrido al avanzar este tramo (le estar&iacute;as reduciendo 30-50 min. al total de tu recorrido). Nosotros no vimos lugar donde puedas dejar la camioneta despu&eacute;s de la estaci&oacute;n de Agua y Drenaje donde no se obstruya la vialidad, as&iacute; que recomendamos dejar el veh&iacute;culo en el &aacute;rea de asadores ya mencionada.<br>&nbsp;<br><strong>ESTACIONAMIENTO:&nbsp;</strong></p> <p>En dicha &aacute;rea de asadores hay suficiente espacio para unos 10 carros, aproximadamente. Es necesario dejarlos a un costado de la calle, pues es de una sola v&iacute;a y estar&iacute;as obstruyendo la vialidad. En caso de que estos lugares se encuentren ocupados, puedes encontrar lugar unas cuadras m&aacute;s abajo, sin obstruir portones de los vecinos.<br>&nbsp;<br><strong>COSTOS:&nbsp;</strong></p> <p>Al d&iacute;a que se escribi&oacute; esto (1 de febrero de 2023), no tiene ning&uacute;n costo llegar al inicio de esta ruta.</p>",
+      "wikiloc":"https://es.wikiloc.com/rutas-senderismo/puerto-gringo-por-santiago-119332919",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org",
+      "description":"<p></p>",
+      "recommended_by":"TCNL",
+      "latitude":"25.38412709529054",
+      "longitude":"-100.1908398980809",
+      "validate_by_staff":false,
+      "completed":false,
+      "completed_count":0,
+      "last_completed_validated":false,
+      "first_completed_date":"",
+      "last_completed_date":"",
+      "featured":false,
+      "is_free":true,
+      "is_pet_friendly":false,
+      "rappelling":false,
+      "recommendations":"<p><strong>ALIMENTO Y L&Iacute;QUIDOS:</strong></p> <p><br>- L&iacute;quidos: llevar como m&iacute;nimo 2 L de agua, electrolitos y una bebida energizante deportiva, as&iacute; como un suero o electrolitos.<br>- Snacks: llevar snacks salados, dulces, frutas, snacks altos en prote&iacute;na y carbs (para consumir previo al hike y en la cumbre).<br>&nbsp;<br><strong>VESTIMENTA: </strong></p> <p>Se recomienda ropa c&oacute;moda y botas o zapatos de hike con buen agarre. Si realizamos esta ruta en oto&ntilde;o o invierno, llevar buff, pantal&oacute;n y manga larga. Un gorro para realizar el recorrido tambi&eacute;n es recomendable.<br>&nbsp;<br><strong>EQUIPO ADICIONAL: </strong></p> <p>Es de mucha ayuda llevar bastones, kit de primeros auxilios, navaja, bater&iacute;a extra, l&aacute;mpara y bolsa para basura.<br>&nbsp;<br>&nbsp;<br><strong>&iexcl;ME PERD&Iacute;!</strong><br>Si est&aacute;s perdido, revisa el wikiloc para intentar orientarte, pero si realmente ya no sabes hacia d&oacute;nde dirigirte, o has sufrido un percance, no dudes en llamar al 911 y contactarte con protecci&oacute;n civil.</p> <p><br></p> <p><strong>RESE&Ntilde;A ESPEC&Iacute;FICA DE LA RUTA:</strong><br>&nbsp;<br>La ruta hacia Puerto Gringo es sin duda una de las m&aacute;s populares en el municipio de Santiago, y no est&aacute; para menos; despu&eacute;s de los tramos de terracer&iacute;a (inicio), podremos encontrar una vereda con piedras e infinidad de &aacute;rboles, que en su gran mayor&iacute;a est&aacute; compuesta de encinos y pinos. Pr&aacute;cticamente todo el recorrido, una vez adentrado en el bosque, estar&aacute;s cubierto por distintos &aacute;rboles inmensos.<br>&nbsp;<br>La ruta descrita es la m&aacute;s conocida, caminada y trazada. Existe la posibilidad de tambi&eacute;n llegar a Puerto el Gringo:</p> <ul> <li>Desde el Vitroparque el Manzano (por el &aacute;rea de caba&ntilde;as)</li> <li>Desde el mismo Vitroparque el Manzano (por la zona del lobby o entrada)</li> <li>Desde la Ci&eacute;nega de Gonz&aacute;lez</li> <li>Desde las Antenas o Puerto Olmos tambi&eacute;n puedes llegar<br>&nbsp;<br>El camino est&aacute; compuesto de piedra suelta, piedras en forma de escal&oacute;n, senderos con algo de tierra y piedra suelta, y al final, un tramo boscoso (con una inclinaci&oacute;n algo considerable). En este &uacute;ltimo tramo la pendiente promedio es de 20% (en algunas partes es m&aacute;s pronunciada que en otras).<br>&nbsp;<br><strong>TIEMPOS ESTIMADOS</strong></li> </ul> <p><br>El tiempo promedio puede ir desde 1:30 hasta 2:30 hr de ascenso, dependiendo de la condici&oacute;n f&iacute;sica del grupo o persona.</p> <p><br>1. Del &aacute;rea de asadores (inicio de ruta), hasta el t&eacute;rmino de la terracer&iacute;a (inicio de vereda): aprox. 25-40 min. (270 m metros verticales; 2 km horizontales).</p> <p><br>2. Del inicio de la vereda a la intersecci&oacute;n hacia Puerto Gringo / Puerto Olmos: 10-20 min. (120 m verticales; 500 m horizontales).</p> <p><br>3. De la intersecci&oacute;n hacia Puerto Gringo (30-45 min.).<br>&nbsp;<br><strong>PREPARACI&Oacute;N</strong></p> <p><br>Si bien no es un recorrido nivel experto, tampoco recomendamos esta ruta para principiantes. Debes de tener algo de condici&oacute;n y experiencia en monta&ntilde;as para subir a Puerto el Gringo. Considera que estar&aacute;s en movimiento, cuando menos, 3 horas; como mucho, 4 horas (en total). Existe un desgaste f&iacute;sico para llegar hasta este punto, as&iacute; que es importante tomar esto a consideraci&oacute;n previo a realizar este recorrido.&nbsp;</p> <p>Si ya has hecho recorridos como la &lsquo;V&rsquo; (Mitras), La Batea y/o Pico UDEM, este recorrido no representar&aacute; mayor problema para ti; por otro lado, si te ha costado subir al Telef&eacute;rico (cerro de la Silla), las Antenas del Mirador o templo de Schoenstatt, este recorrido seguramente va a ser complicado para ti.<br>&nbsp;<br><strong>FECHAS PARA SUBIR</strong></p> <p><br>Las fechas en las que se puede subir este cerro no est&aacute;n limitadas a cierta &eacute;poca del a&ntilde;o, as&iacute; que es un recorrido multi temporada, gracias a la inmensa cantidad de &aacute;rboles que rodean esta ruta. De todas formas, hay que estar alertas en el recorrido por posible presencia de osos, ya que hay varios en esta regi&oacute;n.</p>",
+      "height":"1970 msnm",
+      "only_one_way_distance":"",
+      "slope":"960 m",
+      "rise_time":"2.5 hrs",
+      "difficulty":"Fácil",
+      "difficulty_image":"https://cldup.com/dRsBy-J7D7.png",
+      "warnings":[
+         2,
+         4
+      ],
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9,
+         10
+      ],
+      "emergency_kit":[
+         6
+      ],
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "agencies":[
+         
+      ]
    }
 ]
