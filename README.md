@@ -33,7 +33,7 @@ Información para app de TCNL
 10. Puerto Gringo - Santiago, Nuevo León
 11. Puerto Olmos - Santiago, Nuevo León
 12. El Musgo - Arteaga, Coah
-13. Mota Grande- Garc 
+13. Mota Grande- García, Nuevo León 
 
 # Warning List
 
