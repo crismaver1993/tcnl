@@ -2,7 +2,7 @@
    {
       "id":1,
       "is_visible":true,
-      "is_qr_available":false,
+      "is_qr_available":true,
       "hashtags":"#tcnl-piconorte #cerrolasilla #piconorte",
       "qr_url":"https://cldup.com/syiLcdqBr8.png",
       "synchronized":false,
