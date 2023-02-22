@@ -787,8 +787,8 @@
       "only_one_way_distance":"8 km",
       "slope":"850 m",
       "rise_time":"2.5 hrs",
-      "difficulty":"",
-      "difficulty_image":"",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://cldup.com/vDPzYxfsZJ.png",
       "warnings":[
          2,
          4
