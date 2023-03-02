@@ -231,7 +231,7 @@
    {
       "id":4,
       "is_visible":true,
-      "is_qr_available":false,
+      "is_qr_available":true,
       "hashtags":"#wildpass #cerrolamarta",
       "qr_url":"https://cldup.com/XKymqNKGsR.png",
       "synchronized":false,
@@ -713,7 +713,7 @@
       "rappelling":false,
       "recommendations":"<p><strong>ALIMENTO Y L&Iacute;QUIDOS:</strong></p> <p><br>- L&iacute;quidos: llevar como m&iacute;nimo 2 L de agua, electrolitos y una bebida energizante deportiva, as&iacute; como un suero o electrolitos.<br>- Snacks: llevar snacks salados, dulces, frutas, snacks altos en prote&iacute;na y carbs (para consumir previo al hike y en la cumbre).<br>&nbsp;<br><strong>VESTIMENTA: </strong></p> <p>Se recomienda ropa c&oacute;moda y botas o zapatos de hike con buen agarre. Si realizamos esta ruta en oto&ntilde;o o invierno, llevar buff, pantal&oacute;n y manga larga. Un gorro para realizar el recorrido tambi&eacute;n es recomendable.<br>&nbsp;<br><strong>EQUIPO ADICIONAL: </strong></p> <p>Es de mucha ayuda llevar bastones, kit de primeros auxilios, navaja, bater&iacute;a extra, l&aacute;mpara y bolsa para basura.<br>&nbsp;<br>&nbsp;<br><strong>&iexcl;ME PERD&Iacute;!</strong><br>Si est&aacute;s perdido, revisa el wikiloc para intentar orientarte, pero si realmente ya no sabes hacia d&oacute;nde dirigirte, o has sufrido un percance, no dudes en llamar al 911 y contactarte con protecci&oacute;n civil.</p> <p><br></p> <p><strong>RESE&Ntilde;A ESPEC&Iacute;FICA DE LA RUTA:</strong><br>&nbsp;<br>La ruta hacia Puerto Gringo es sin duda una de las m&aacute;s populares en el municipio de Santiago, y no est&aacute; para menos; despu&eacute;s de los tramos de terracer&iacute;a (inicio), podremos encontrar una vereda con piedras e infinidad de &aacute;rboles, que en su gran mayor&iacute;a est&aacute; compuesta de encinos y pinos. Pr&aacute;cticamente todo el recorrido, una vez adentrado en el bosque, estar&aacute;s cubierto por distintos &aacute;rboles inmensos.<br>&nbsp;<br>La ruta descrita es la m&aacute;s conocida, caminada y trazada. Existe la posibilidad de tambi&eacute;n llegar a Puerto el Gringo:</p> <ul> <li>Desde el Vitroparque el Manzano (por el &aacute;rea de caba&ntilde;as)</li> <li>Desde el mismo Vitroparque el Manzano (por la zona del lobby o entrada)</li> <li>Desde la Ci&eacute;nega de Gonz&aacute;lez</li> <li>Desde las Antenas o Puerto Olmos tambi&eacute;n puedes llegar<br>&nbsp;<br>El camino est&aacute; compuesto de piedra suelta, piedras en forma de escal&oacute;n, senderos con algo de tierra y piedra suelta, y al final, un tramo boscoso (con una inclinaci&oacute;n algo considerable). En este &uacute;ltimo tramo la pendiente promedio es de 20% (en algunas partes es m&aacute;s pronunciada que en otras).<br>&nbsp;<br><strong>TIEMPOS ESTIMADOS</strong></li> </ul> <p><br>El tiempo promedio puede ir desde 1:30 hasta 2:30 hr de ascenso, dependiendo de la condici&oacute;n f&iacute;sica del grupo o persona.</p> <p><br>1. Del &aacute;rea de asadores (inicio de ruta), hasta el t&eacute;rmino de la terracer&iacute;a (inicio de vereda): aprox. 25-40 min. (270 m metros verticales; 2 km horizontales).</p> <p><br>2. Del inicio de la vereda a la intersecci&oacute;n hacia Puerto Gringo / Puerto Olmos: 10-20 min. (120 m verticales; 500 m horizontales).</p> <p><br>3. De la intersecci&oacute;n hacia Puerto Gringo (30-45 min.).<br>&nbsp;<br><strong>PREPARACI&Oacute;N</strong></p> <p><br>Si bien no es un recorrido nivel experto, tampoco recomendamos esta ruta para principiantes. Debes de tener algo de condici&oacute;n y experiencia en monta&ntilde;as para subir a Puerto el Gringo. Considera que estar&aacute;s en movimiento, cuando menos, 3 horas; como mucho, 4 horas (en total). Existe un desgaste f&iacute;sico para llegar hasta este punto, as&iacute; que es importante tomar esto a consideraci&oacute;n previo a realizar este recorrido.&nbsp;</p> <p>Si ya has hecho recorridos como la &lsquo;V&rsquo; (Mitras), La Batea y/o Pico UDEM, este recorrido no representar&aacute; mayor problema para ti; por otro lado, si te ha costado subir al Telef&eacute;rico (cerro de la Silla), las Antenas del Mirador o templo de Schoenstatt, este recorrido seguramente va a ser complicado para ti.<br>&nbsp;<br><strong>FECHAS PARA SUBIR</strong></p> <p><br>Las fechas en las que se puede subir este cerro no est&aacute;n limitadas a cierta &eacute;poca del a&ntilde;o, as&iacute; que es un recorrido multi temporada, gracias a la inmensa cantidad de &aacute;rboles que rodean esta ruta. De todas formas, hay que estar alertas en el recorrido por posible presencia de osos, ya que hay varios en esta regi&oacute;n.</p>",
       "height":"1970 msnm",
-      "only_one_way_distance":"",
+      "only_one_way_distance":"9.5 km",
       "slope":"960 m",
       "rise_time":"2.5 hrs",
       "difficulty":"Fácil",
@@ -751,8 +751,8 @@
    },
    {
       "id":11,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/LGjLHPue5y.png",
       "synchronized":false,
@@ -787,10 +787,11 @@
       "only_one_way_distance":"8 km",
       "slope":"850 m",
       "rise_time":"2.5 hrs",
-      "difficulty":"",
-      "difficulty_image":"",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://cldup.com/vDPzYxfsZJ.png",
       "warnings":[
-         2,4
+         2,
+         4
       ],
       "things_to_take":[
          1,
@@ -818,12 +819,14 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
    },
    {
       "id":12,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/g0u3Qnpz0F.png",
       "synchronized":false,
@@ -861,7 +864,15 @@
       "difficulty":"Moderada",
       "difficulty_image":"https://cldup.com/gaTLuUAHBG.png",
       "warnings":[
-         1,2,3,4,5,6,7,8,9
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         7,
+         8,
+         9
       ],
       "things_to_take":[
          1,
@@ -873,13 +884,16 @@
          7,
          8,
          9,
-         10,11,13
+         10,
+         11,
+         13
       ],
       "emergency_kit":[
          1,
          2,
          3,
-         5,6
+         5,
+         6
       ],
       "clothes":[
          1,
@@ -889,12 +903,14 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
    },
    {
       "id":13,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/hi_jjCfJlv.png",
       "synchronized":false,
@@ -932,7 +948,8 @@
       "difficulty":"Moderado",
       "difficulty_image":"https://cldup.com/ZZbi_InJ1b.png",
       "warnings":[
-         2,4
+         2,
+         4
       ],
       "things_to_take":[
          1,
@@ -960,12 +977,14 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
    },
    {
       "id":14,
-      "is_visible": true,
-      "is_qr_available": false,
+      "is_visible":true,
+      "is_qr_available":false,
       "hashtags":"#wildpass ",
       "qr_url":"https://cldup.com/jvlCHcRCU2.png",
       "synchronized":false,
@@ -1003,7 +1022,8 @@
       "difficulty":"Moderado",
       "difficulty_image":"https://cldup.com/C5u-BjSLSz.png",
       "warnings":[
-         2,4
+         2,
+         4
       ],
       "things_to_take":[
          1,
@@ -1031,6 +1051,80 @@
          5,
          6
       ],
-      "agencies":[]
+      "agencies":[
+         
+      ]
+   },
+   {
+      "name":"Cueva de la Virgen",
+      "id":15,
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "completed":false,
+      "completed_count":0,
+      "cover":"https://cldup.com/EOscSJZWql.jpeg",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/cueva-de-la-virgen",
+      "description":"<p>\u00bfYa conoces el emblem\u00e1tico hike de La Cueva De La Virgen?<br><br>Dentro del Parque Ecol\u00f3gico Huasteca, \nesta majestuosa cueva est\u00e1 llena de tradiciones. Con una agradable \ncaminata , tendr\u00e1s la oportunidad de disfrutar de una hermosa\n vista. En esta ocasi\u00f3n solo mostraremos la ruta de senderismo sin rappel. <br></p>",
+      "difficulty":"Moderada",
+      "difficulty_image":"https://cldup.com/E9bY_ib4FK.png",
+      "emergency_kit":[
+         1,
+         3,
+         6
+      ],
+      "featured":false,
+      "first_completed_date":"",
+      "hashtags":"#cuevadelavirgen #wildpass #trekkingcrewnl",
+      "height":"910 msnm",
+      "is_free":true,
+      "is_pet_friendly":false,
+      "is_qr_available":false,
+      "is_visible":true,
+      "last_completed_date":"",
+      "last_completed_validated":false,
+      "latitude":"25.65008611883793",
+      "location":"Santa Catarina, NL",
+      "location_description":"<div>     <h2>&iquest;C&Oacute;MO LLEGAR?</h2>     <p><br></p>     <h3>UBICACI&Oacute;N:</h3>     <p>Para llegar al inicio de la vereda hay que buscar el parque la huasteca en tu navegador preferido y seguir las indicaciones. Una vez dentro del parque hay que manejar 1.5 km hasta llegar a una curva pasando el segundo puente donde suele haber puestitos de elote. Desde este punto se puede observar la pared en la que se encuentra la cueva. Despu&eacute;s de estacionarse hay que seguir el r&iacute;o en direcci&oacute;n a donde se esquina con las grandes monta&ntilde;as. Hay varias subidas y bajadas, pero hay que estar atentos en buscar la ruta m&aacute;s directa en direcci&oacute;n a un peque&ntilde;o ca&ntilde;&oacute;n que se forma m&aacute;s arriba (dos paredes). Voltea hacia arriba, si ves este ca&ntilde;on directo enfrente de ti, por aqu&iacute; empiezas a subir. Toma en cuenta que la primera parte es muy empinada.</p>     <p><br></p>     <h3>ESTACIONAMIENTO:</h3>     <p>Para estacionarse hay que bajar el carro a la terracer&iacute;a que est&aacute; a mano derecha despu&eacute;s de pasar el segundo puente desde la entrada. Aqu&iacute; no hay problema con dejar los coches pero como precauci&oacute;n recuerden no dejar nada de valor a la vista.</p>     <h3>COSTOS:</h3>     <p>Al d&iacute;a que se escribi&oacute; esto, no tiene costos lograr este ascenso. (Actualizado abril 2022)</p>     <p><br></p>     <h3>TIPO DE CARRO:</h3>     <p>Para llegar al inicio de esta vereda uno puede transportarse en cualquier tipo de carro. No se ocupa camioneta o 4x4.</p> </div>",
+      "longitude":"-100.4646867768679",
+      "map_location":"https://goo.gl/maps/yZtPLycLtD4LdiYi6",
+      "only_one_way_distance":"600 m",
+      "qr_url":"https://cldup.com/CKzm59h0pL.png",
+      "rappelling":false,
+      "recommendations":"<p>Hay muchos inicios de vereda, el que nosotros recomendamos es justo debajo de dos paredes que forman un peque&ntilde;o ca&ntilde;on m&aacute;s arriba en la monta&ntilde;a.<br>&nbsp;</p> <p><br>Este camino comienza bastante empinado y un poco resbaladizo pero sin pierde. Hay que estar atentos para no esforzar las piernas de m&aacute;s, como est&aacute; tan empinado y aun nuestras piernas siguen fr&iacute;as, sancadas as&iacute; de pronunciadas pueden lastimar nuestros m&uacute;sculos. Hay que seguir este camino empinado hasta llegar a donde topa con unas piedras grandes y entonces agarras la desviaci&oacute;n hacia el chorreadero a mano izquierda. Sigues el chorreadero hasta entrar a donde se forma un ca&ntilde;&oacute;n entre dos paredes. El camino sigue bien marcado siguiendo este canyon hasta topar con la pared the la monta&ntilde;a y llegar a una parte vertical. Hay que subir con cuidado y fijando que no se tiren piedras. Las escaladas no son muy dif&iacute;ciles, pero s&iacute; requieren algo de fuerza en los brazos. Principiantes suelen empezar a asustarse un poco aqu&iacute;, pero lo m&aacute;s importante es mantener la calma. Estas escaladas son sobre piedra caliza que se ha ido puliendo con tanto flujo de gente y pueden estar un poco resbalosas.<br>&nbsp;</p> <p><br>Despu&eacute;s de la primera escalada siguen un par de secciones en las que hay que usar las manos. El camino se va a empezar a desviar a mano izquierda, se vuelve plano por un par de metros y luego dar&aacute; una vuelta a la derecha para seguir subiendo. OJO ESTA VUELTA A LA DERECHA NO SE TE PUEDE PASAR CUANDO VAYAS DE BAJADA O VAS A TERMINAR EN UNA PARED DE RAPPEL. Hay que tomar en cuenta que entre m&aacute;s subamos, m&aacute;s riesgo hay de sufrir un accidente al resbalarnos.<br>El camino sigue bien marcado y nuevamente se vuelve empinado y habr&aacute; que usar las manos. Aqu&iacute; no hay manera de perderte ya que ya puedes ver la cueva y lo &uacute;nico que tienes que hacer es acercarte de la manera m&aacute;s l&oacute;gica (no escales veredas llenas de espinas o piedras sueltas)</p> <p><br>&nbsp;<br>Esta &uacute;ltima parte es la m&aacute;s dif&iacute;cil y de las m&aacute;s peligrosas del recorrido. Justo antes de llegar a la cueva vas a tener que subir un tramo semi vertical con pocos agarres y muy resbaloso. Recientemente equiparon esta ruta con pitones para ir pis&aacute;ndolos y agarr&aacute;ndolos. Lo peligroso de esta &uacute;ltima subida es que est&aacute;s totalmente expuesto a piedras que dislocan los que van subiendo frente a ti, sea de tu grupo o de otro grupo que aun no has visto.</p> <p><br>&nbsp;<br>Perros que frecuentemente hacen hikes de este estilo pueden llegar, si es que batallan con un poco de ayuda s&iacute; lo logran.</p> <p><br><br></p> <p><br>EQUIPO Y ROPA<br>- pantal&oacute;n (se va a llenar de polvo)<br>- Camisa manga larga o corta<br>- 2 Litros de agua (no es lo mismo que dos termos de los t&iacute;picos swell, uno de esos termos son 500ml)<br>- Descargar este wikiloc<br>- Casco<br>- Fruta (no tires la c&aacute;scara)<br>- Snacks salados (nueces, sandwich)<br>- Snacks dulces (chocolate, granola)<br>- Bolsa de basura<br>- Sentido com&uacute;n<br>- Zapatos con agarre</p>",
+      "recommended_by":"",
+      "rise_time":"45 mins",
+      "route_description":"<div>\n    <h2>&iquest;C&Oacute;MO ES LA VEREDA?</h2>\n    <p><br></p>\n    <h3>DIFICULTAD F&Iacute;SICA:</h3>\n    <p>Esta ruta tiene una dificultad f&iacute;sica de nivel 1 seg&uacute;n nuestra m&eacute;trica de clasificaci&oacute;n de dificultades. Esto significa que el ascenso tiene menos de 200 metros de desnivel. Sin embargo hay que tomar en cuenta que es una ruta con poca distancia entonces el ascenso es sumamente vertical y empinado. Esto incrementa el riesgo de lastimarse en caso de resbalarse o de sufrir un golpe de alguna piedra que se haya ca&iacute;do.</p>\n    <p><br></p>\n    <h3>NIVEL T&Eacute;CNICO:</h3>\n    <p>Esta ruta tiene una dificultad t&eacute;cnica de nivel D, para llegar a la cueva hay que realizar varias escaladas semi verticales en paredes de piedra caliza resbalosa. Aparte de las escaladas t&eacute;cnicas, la subida est&aacute; totalmente expuesta a piedras que pueden llegar a tumbar otros senderistas. Es obligatorio llevar casco para evitar que una piedra, accidentalmente dislocada, te golpee la cabeza.</p>\n    <p><br></p>\n    <h3>EXPOSICI&Oacute;N SOLAR</h3>\n    <p>La ruta est&aacute; totalmente expuesta al sol, es sumamente importante llevar buena protecci&oacute;n solar. En las tardes el sol se esconde detr&aacute;s de pico independencia y mejora las condiciones del ascenso.</p>\n</div>",
+      "route_name":"Sin rappel",
+      "slope":"201 m",
+      "stars":5,
+      "start_location":"MG2Q+46F Santa Catarina, Nuevo Leon",
+      "synchronized":false,
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         6,
+         8,
+         9,
+         10,
+         12,
+         13
+      ],
+      "validate_by_staff":"",
+      "warnings":[
+         2,
+         4,
+         5,
+         7
+      ],
+      "wikiloc":"https://es.wikiloc.com/rutas-senderismo/cueva-de-la-virgen-ascenso-directo-33595489",
+      "youtube_video":"https://youtu.be/i72XUlHerTI"
    }
 ]
