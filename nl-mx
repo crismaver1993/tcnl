@@ -1117,7 +1117,7 @@
          12,
          13
       ],
-      "validate_by_staff":"",
+      "validate_by_staff": false,
       "warnings":[
          2,
          4,
