@@ -1126,5 +1126,77 @@
       ],
       "wikiloc":"https://es.wikiloc.com/rutas-senderismo/cueva-de-la-virgen-ascenso-directo-33595489",
       "youtube_video":"https://youtu.be/i72XUlHerTI"
+   },
+   {
+     "name":"Cerro el Ovni",
+      "id":16,
+      "clothes":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "completed":false,
+      "completed_count":0,
+      "cover":"https://s2.wklhttps://cldup.com/KMf0Zy4toU.jpgcdn.com/image_161/4830002/96450702/62993222.jpg",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/cerro-el-ovni",
+      "description":"<p>El Cerro del Ovni en Icamole, Garcia, Nuevo Le\u00f3n, M\u00e9xico es una de las opciones \nde senderismo m\u00e1s emocionantes en la zona norte del estado. Este cerro \nde forma peculiar, que recibe su nombre por su forma ovalada, se \nencuentra a una altitud de 1,200 metros sobre el nivel del mar, y ofrece\n impresionantes vistas panor\u00e1micas de la regi\u00f3n circundante.<br></p>",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://cldup.com/0Yugp_wZVy.png",
+      "emergency_kit":[
+         1,
+         5,
+         6
+      ],
+      "featured":false,
+      "first_completed_date":"",
+      "hashtags":"#cerroelovni #trekkingcrewnl",
+      "height":"1206 m",
+      "is_free":true,
+      "is_pet_friendly":false,
+      "is_qr_available":false,
+      "is_visible":true,
+      "last_completed_date":"",
+      "last_completed_validated":false,
+      "latitude":"25.920724018279618",
+      "location":"Sierra de Enmedio, Icamole, NL",
+      "location_description":"<p><strong><span style=\"font-size: 22px;\">&iquest;C&oacute;mo llegar?</span></strong><strong><span style=\"font-size: 22px;\">&nbsp;</span><br></strong></p> <p>Ubicado a 1 hora y media de la ciudad de Monterrey, puede llegar a Icamole manejando con rumbo a el centro de Garc&iacute;a por la Av. Abraham Lincoln. Despu&eacute;s &nbsp;hay que tomar el antiguo camino a Icamole, se trata de una carretera solitaria, con muchos huecos en el camino.<br>&nbsp;<br><strong>TIPO DE VEH&Iacute;CULO:&nbsp;</strong></p> <p>No se requiere veh&iacute;culo especial. Cualquier veh&iacute;culo puede llegar<br>&nbsp;<br><strong>ESTACIONAMIENTO:&nbsp;</strong></p> <p>Se puede estacionar el veh&iacute;culo en el dep&oacute;sito de bebidas principal del pueblo, justo enfrente del &ldquo;Mini Super Damaris&rdquo;, espacio amplio, seguro y sin costo de estacionamiento.<br><strong>&nbsp;<br>COSTOS:</strong> Sin costo</p>",
+      "longitude":"-100.7447557607332",
+      "map_location":"https://goo.gl/maps/br5QWW19FmzQqVnc9",
+      "only_one_way_distance":"14 km",
+      "qr_url":"",
+      "rappelling":false,
+      "recommendations":"Es una ruta expuesta al sol, por momentos encontrar\u00e1s espinas. Igual es bueno ir pendiente de donde caminas, ya que en los momento de m\u00e1s calor , puedes encontrar serpientes.  El chorradero y los precipios deben caminarse con todos los sentidos y con mucho cuidado, as\u00ed evitar\u00e1s accidentes.",
+      "recommended_by":"",
+      "rise_time":"5 hrs",
+      "route_description":"<p><br><span style=\"font-size: 22px;\"><strong>&iquest;C&oacute;mo es la vereda?</strong></span></p>\n<p><br>La dificultad de esta ruta sencuentra en 3 seg&uacute;n la m&eacute;trica de clasificaci&oacute;n de dificultades de la &quot;Cumbre Cotidiana&quot;. Al ser una ruta expuesta y con un desnivel pronunciado desde el principio, puede parecer m&aacute;s dificil, lento y cansado. Es una ruta bastante agresiva y la cu&aacute;l debemos prestarle atenci&oacute;n para no perderse, sobre todo pasando el r&iacute;o Salinas. <strong>NO OLVIDES LLEVAR LA RUTA EN EL WIKILOC.</strong></p>",
+      "route_name":"Ruta Icamole",
+      "slope":"560 m",
+      "stars":3,
+      "start_location":"W77P+F6W Icamole, Nuevo Le\u00f3n",
+      "synchronized":false,
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         5,
+         6,
+         8,
+         9,
+         10,
+         13
+      ],
+      "validate_by_staff":"",
+      "warnings":[
+         2,
+         4,
+         5
+      ],
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/cerro-el-ovni-78612560#lb-embed",
+      "youtube_video":"https://youtu.be/k6So0jJ-t4I"
    }
+   
 ]
