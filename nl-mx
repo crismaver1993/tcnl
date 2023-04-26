@@ -1197,6 +1197,76 @@
       ],
       "wikiloc":"https://www.wikiloc.com/hiking-trails/cerro-el-ovni-78612560#lb-embed",
       "youtube_video":"https://youtu.be/k6So0jJ-t4I"
+   },
+   {
+      "name":"El Potos\u00ed",
+      "id":17,
+      "clothes":[
+         1,
+         7,
+         2,
+         3,
+         4,
+         5,
+         6
+      ],
+      "completed":false,
+      "completed_count":0,
+      "cover":"https://cldup.com/yWS0nnFZb6.jpg",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/el-potos%C3%AD",
+      "description":"<p>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t</p><p><strong>CERRO DEL POTOS\u00cd</strong></p><p>Es una monta\u00f1a que&nbsp;fue declarado legalmente como \u00c1rea Natural Protegida en el a\u00f1o 2000 por el gobierno del Estado de Nuevo Le\u00f3n, que se encuentra ubicada aproximadamente a 15 km al nornoreste de la cabecera municipal de Galeana.</p><p>La cima est\u00e1 a 3,721 metros \nsobre el nivel del mar, es la m\u00e1s alta de la Sierra Madre Oriental y del\n norte de M\u00e9xico, y la segunda m\u00e1s alta del pa\u00eds fuera del Eje \nNeovolc\u00e1nico, apenas m\u00e1s baja que el Cerro Nube Flane de 3,720 msnm, y \nmuy cerca del Cerro de la Viga con 3,712 msnm. Con una prominencia de \n1870 metros, se trata tambi\u00e9n de un pico ultraprominente.&nbsp;</p><p>\n\t\t\t\n\t\t\t<br></p>",
+      "difficulty":"Moderado",
+      "difficulty_image":"https://www.lacumbrecotidiana.org/img/%C3%8Dconos/SVG/6/II/2.svg",
+      "emergency_kit":[
+         3,
+         5,
+         6
+      ],
+      "featured":false,
+      "first_completed_date":"",
+      "hashtags":"#wildpass #trekkingcrewnl",
+      "height":"3720 msnm",
+      "is_free":true,
+      "is_pet_friendly":false,
+      "is_qr_available":false,
+      "is_visible":true,
+      "last_completed_date":"",
+      "last_completed_validated":false,
+      "latitude":"24.871913508118638",
+      "location":"ANP Cerro del Potos\u00ed, Galeana, NL",
+      "location_description":"<p>El cerro del potos&iacute; est&aacute; ubicado junto a la comunidad llamada San Jose de Las Joyas. Una manera de llegar es tomar la carretera 57 Matehuala-Monterrey hacia el este en direcci&oacute;n a Potos&iacute;, Galeana. Otra ruta y nuestra preferida, es dirigirse hacia San Antonio de Las Alazanas y tomar la salida en direcci&oacute;n a Ci&eacute;naga del Toro. La segunda alternativa es m&aacute;s esc&eacute;nica. Ambos caminos requieren una camioneta tipo SUV para llegar, pero no se ocupa 4x4 (sin lluvia)</p> <div><br></div> <div>     <h3>&nbsp;Estacionamiento:</h3> </div> <p>Al llegar a la comunidad de San Jos&eacute; de Las Joyas hay que introducirse con los lugare&ntilde;os. Con mucho gusto ellos te dar&aacute;n recomendaciones sobre el ascenso al cerro e inclusive ofrecer estacionamiento.</p>",
+      "longitude":"-100.23264304105247",
+      "map_location":"https://goo.gl/maps/2LNm74fkoKjsp8FCA",
+      "only_one_way_distance":"11 km",
+      "qr_url":"https://cldup.com/jG-2iB9O9O.png",
+      "rappelling":false,
+      "recommendations":"En ciertas partes del recorrido la vereda est\u00e1 muy expuesta al sol. Durante \u00e9pocas de verano siempre hay que ir bien tapados del sol y con mucha agua para prevenir un golpe de calor. Al contrario, en invierno hay que llevar capas para el fr\u00edo, especialmente si van a acampar en la cumbre. Como siempre, est\u00e9n abusados de las cascabeles. Hay que tomar en cuenta que esta cumbre est\u00e1 a m\u00e1s de 3000 msnm y que puede llegar a causar mal de altura.",
+      "recommended_by":"TCNL",
+      "rise_time":"8 hrs",
+      "route_description":"<p><strong>DESCRIPCI&Oacute;N DEL RECORRIDO</strong></p>\n<p><br>Existe un laberinto de caminos que llegan a la cumbre, por lo que seguir solamente un camino hasta llegar arriba es dif&iacute;cil. Sin embargo, viendo que el potos&iacute; tiene una forma de cono, en caso de desviarse del camino, simplemente seguir subiendo hasta interceptar otra vereda marcada.<br>&nbsp;<br>&nbsp;<br><strong>VEGETACI&Oacute;N</strong></p>\n<p><br>Todo el recorrido recorre un bosque de pinos. Debido a la altura, el bosque es m&aacute;s frondoso en las faldas de la monta&ntilde;a y m&aacute;s escaso al aproximarse a la cumbre.</p>",
+      "route_name":"San Jos\u00e9 de las Joyas",
+      "slope":"1000 m",
+      "stars":5,
+      "start_location":"VPXM+VPH San Jos\u00e9 de las Joyas, Nuevo Leon",
+      "synchronized":false,
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4,
+         6,
+         8,
+         10,
+         13
+      ],
+      "validate_by_staff":"",
+      "warnings":[
+         1,
+         3,
+         8
+      ],
+      "wikiloc":"https://www.wikiloc.com/hiking-trails/cerro-el-potosi-59201211",
+      "youtube_video":"https://youtu.be/vgKlqSNARhE"
    }
    
 ]
