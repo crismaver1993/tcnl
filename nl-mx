@@ -1084,7 +1084,7 @@
       "height":"910 msnm",
       "is_free":true,
       "is_pet_friendly":false,
-      "is_qr_available":false,
+      "is_qr_available":true,
       "is_visible":true,
       "last_completed_date":"",
       "last_completed_validated":false,
