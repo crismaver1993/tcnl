@@ -40,6 +40,8 @@ Información para app de TCNL
 17. Cerro El Potosí - Galeana, Nuevo León 
 18. Cerro La Nieves - Arteaga,Cohuila
 19. Cerro Agujerado - Juárez, Nuevo León
+20. Mirador del Fraile - García, Nuevo León
+21. Cascada el Chipitín - Las adjuntas, Nuevo León
 
 # Warning List
 
