@@ -1585,6 +1585,68 @@
       ],
       "wikiloc":"https://www.wikiloc.com/hiking-trails/cascada-del-chipitin-55998254",
       "youtube_video":"https://youtu.be/NWxpSZbXi5c"
+   },
+{
+      "id":22,
+      "name":"El Coahuilón",
+      "clothes":[
+         1,
+         7
+      ],
+      "completed":false,
+      "completed_count":0,
+      "cover":"https://cldup.com/EwL8_S9xYp.jpg",
+      "cumbre_cotidiana_link":"https://www.lacumbrecotidiana.org/ruta/el-coahuil%C3%B3n",
+      "description":"<p>El Cerro El Cohuilon es una joya paisaj\u00edstica ubicada en la Sierra de Arteaga, Coahuila. Su vereda ofrece una impresionante combinaci\u00f3n de rocas, con\u00edferas, agaves y flores silvestres durante su temporada. La cima de esta monta\u00f1a brinda una panor\u00e1mica de 360\u00b0 de toda la sierra, haciendo de ella una de las pocas cimas con una vista tan amplia.</p><p>La ruta de ascenso se divide en cuatro segmentos, cada uno con sus propios retos y atractivos. El primer segmento tiene una longitud de 1.8 km y una pendiente promedio del 25%. Aunque puede parecer desafiante desde la base, resulta m\u00e1s manejable una vez dentro de \u00e9l, gracias a las piedras que forman escalones naturales en algunos puntos. A lo largo del camino, se pueden apreciar panor\u00e1micas de La Marta, el valle de Mesa de Tablas y, a lo lejos, La Viga.</p><p>Al alcanzar los 3,100 msnm, se llega al Valle Intermedio, un extenso plano cubierto de pastizales. Aqu\u00ed es posible recuperar el aliento y guardar energ\u00edas para el segundo ascenso. Durante este tramo, se pueden avistar listones naranjas, rojos y blancos colgados de los \u00e1rboles, que sirven como gu\u00eda en la ruta, ya que es f\u00e1cil perder la orientaci\u00f3n en el valle.</p><p>El tercer segmento es el m\u00e1s exigente de la ruta, con una pendiente cercana al 30% en casi 1000 m de distancia horizontal. El terreno rocoso puede dificultar la caminata, pero las mojoneras de piedra, colocadas por personas amables, ayudan a mantener la senda correcta. La recompensa de llegar al lomo del Coahuil\u00f3n hace que el esfuerzo valga la pena.</p><p>Al llegar a un bosquete de alamillos, \u00e1rboles caracter\u00edsticos por su tronco blanco y hojas en forma de coraz\u00f3n, inicia el cuarto y \u00faltimo segmento: el lomo. Aqu\u00ed, la caminata es m\u00e1s tranquila, casi horizontal, a lo largo del lomo de la monta\u00f1a. El sendero est\u00e1 bien pisado, y no se requieren listones como en el primer segmento. Durante la temporada de floraci\u00f3n, el lomo se llena de color con las flores silvestres.</p><p>Finalmente, la cima no difiere mucho del \u00faltimo tramo de la caminata, pero la sensaci\u00f3n de estar en la cumbre del Coahuil\u00f3n es gratificante y recompensadora. Desde all\u00ed, se pueden apreciar vistas panor\u00e1micas espectaculares, lo que convierte esta monta\u00f1a en una experiencia inolvidable para los amantes del senderismo y la naturaleza.<br></p>",
+      "difficulty":"Dificil",
+      "difficulty_image":"https://cldup.com/zVRQd832D9.png",
+      "emergency_kit":[
+         1,
+         3
+      ],
+      "featured":false,
+      "first_completed_date":"",
+      "hashtags":"#wildpass #elcohuilon #trekkingcrewnl",
+      "height":"3500 m",
+      "is_free":true,
+      "is_pet_friendly":false,
+      "is_qr_available":false,
+      "is_visible":true,
+      "last_completed_date":"",
+      "last_completed_validated":false,
+      "latitude":"25.252982750632725",
+      "location":"Arteaga, Coahuila",
+      "location_description":"<h1 style=\"margin-bottom: 0px;\">\u00bfC\u00f3mo llegar?</h1><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">Ubicaci\u00f3n:</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">Para llegar al inicio de la ruta, dir\u00edgete al ejido Mesa de las Tablas. Al llegar, encontrar\u00e1s un caminito para carros que marca el comienzo del recorrido. Sin embargo, ten en cuenta que en el camino de terracer\u00eda, hay una vuelta muy cerrada que parece ser el inicio de la vereda, pero no lo es. Contin\u00faa caminando por la terracer\u00eda, y a menos de 100 metros, encontrar\u00e1s el verdadero inicio de la vereda a mano izquierda, aunque la entrada puede estar un poco cerrada.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">Estacionamiento:</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">Es importante tener en cuenta que no hay un lugar establecido para estacionarse. Debes estar atento y buscar el camino angosto para orillarte y estacionar el autom\u00f3vil. Tambi\u00e9n puedes pedir permiso a los lugare\u00f1os para estacionar tu carro en los ejidos cercanos al Coahuil\u00f3n. El tipo de veh\u00edculo depender\u00e1 de qu\u00e9 tan cerca quieras estacionarte al inicio de la vereda. Con una camioneta (si no hay lluvia) podr\u00e1s llegar hasta el inicio, mientras que con un carro deber\u00e1s estacionarte un poco m\u00e1s lejos.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">Costos y Horario:</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">Si est\u00e1s saliendo desde Monterrey, ten en cuenta que la carretera hacia Saltillo por la cuota tiene costo de $106 pesos, y la caseta de cobro de la Carbonera es de $44 pesos. Se recomienda empezar a m\u00e1s tardar 7:20 am.<br></p><p style=\"margin-bottom: 0px;\"><br></p>",
+      "longitude":"-100.34546404378695",
+      "map_location":"https://goo.gl/maps/kbCe1SKbEpPiERtu9",
+      "only_one_way_distance":"11 km",
+      "qr_url":"",
+      "rappelling":false,
+      "recommendations":"<h4>Investiga la ruta</h4><p>&nbsp;Antes de emprender la subida, investiga sobre la monta\u00f1a, su altitud, dificultad de la ruta y el clima esperado. Busca mapas, gu\u00edas de senderismo o consulta a personas que hayan subido antes.</p><h4>Equipo adecuado</h4><p><strong>&nbsp;</strong>Aseg\u00farate de llevar el equipo adecuado, que incluye ropa y calzado apropiado para el senderismo, una mochila con suficiente agua, comida, protecci\u00f3n solar, y una linterna si planeas una caminata larga o nocturna.</p><h4>Grupo o compa\u00f1ero</h4><p>Es m\u00e1s seguro subir monta\u00f1as en compa\u00f1\u00eda de otras personas. Siempre es recomendable hacerlo con un grupo organizado o, al menos, con un compa\u00f1ero de confianza.</p><h4>Condiciones f\u00edsicas</h4><p>Eval\u00faa tu condici\u00f3n f\u00edsica y aseg\u00farate de estar en forma para el nivel de dificultad del sendero. Comienza con rutas m\u00e1s f\u00e1ciles si eres principiante.</p><h4>Respetar la naturaleza</h4><p>Respeta el entorno natural, no dejes basura y sigue las reglas establecidas para la protecci\u00f3n de la monta\u00f1a y la vida silvestre.</p><h4>Comunicaci\u00f3n</h4><p>&nbsp;Lleva un tel\u00e9fono m\u00f3vil o alg\u00fan dispositivo de comunicaci\u00f3n en caso de emergencia.</p><h4>Notificar tu plan</h4><p>Siempre informa a alguien sobre tu plan de subir la monta\u00f1a, incluyendo la ruta y la hora estimada de regreso, en caso de que algo salga mal.</p>",
+      "recommended_by":"TCNL",
+      "rise_time":"8 hrs",
+      "route_description":"<h4 style=\"margin-bottom: 0px;\">DIFICULTAD F\u00cdSICA</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">Esta ruta presenta un nivel de dificultad 5 seg\u00fan la m\u00e9trica de clasificaci\u00f3n de LCC. El ascenso implica entre 800-1000 metros de desnivel y puede resultar m\u00e1s exigente en comparaci\u00f3n con otros cerros de nivel 4 debido a que la cumbre se encuentra a m\u00e1s de 2500 msnm, lo que puede ocasionar s\u00edntomas por la altitud. La subida es constantemente empinada hasta llegar a la cresta del cerro y cuenta con tramos totalmente expuestos al sol. El tramo m\u00e1s largo sin sombra dura aproximadamente 1 hora y media.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">DIFICULTAD T\u00c9CNICA</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">En cuanto a la dificultad t\u00e9cnica, esta ruta se clasifica como grado B seg\u00fan nuestra m\u00e9trica. Aunque no se considera un chorreadero, se encuentran piedras de gran tama\u00f1o que pueden estar sueltas en algunos tramos del ascenso. Esto requiere conocimientos sobre c\u00f3mo caminar en terrenos inestables y es necesario tener precauci\u00f3n.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">EXPOSICI\u00d3N AL SOL</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">&nbsp;La ruta tiene una exposici\u00f3n al sol de nivel ll, con excepci\u00f3n de la cumbre. La vereda carece en gran medida de pinos y est\u00e1 expuesta al sol. Recomendamos intentar esta cumbre durante oto\u00f1o, invierno o primavera para evitar un golpe de calor. Adem\u00e1s, el sol sale del lado contrario a la subida, por lo que comenzar temprano en la ma\u00f1ana proporcionar\u00e1 m\u00e1s tiempo de sombra.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">TRAZO DE RUTA</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">Aunque la vereda cuenta con listones, estos pueden estar algo escondidos, lo que dificulta la orientaci\u00f3n. Es f\u00e1cil perderse, por lo que es importante estar atento y tomar precauciones debido a la falta de una marcaci\u00f3n clara en la ruta.</p><p style=\"margin-bottom: 0px;\"><br></p><h4 style=\"margin-bottom: 0px;\">VESTIMENTA Y EQUIPO RECOMENDADO</h4><p style=\"margin-bottom: 0px;\"><br></p><p style=\"margin-bottom: 0px;\">- Zapatos para senderismo</p><p style=\"margin-bottom: 0px;\">- Sombrero o gorro para protegerse del sol</p><p style=\"margin-bottom: 0px;\">- Camisa de manga larga para protecci\u00f3n solar</p><p style=\"margin-bottom: 0px;\">- Pantal\u00f3n largo para evitar raspaduras y contacto con vegetaci\u00f3n</p><p style=\"margin-bottom: 0px;\">- Snacks y agua para mantenerse hidratado y con energ\u00eda</p><p style=\"margin-bottom: 0px;\">- Snacks dulces y salados para recuperar fuerzas</p><p style=\"margin-bottom: 0px;\">- Llevar un m\u00ednimo de 3-4 litros de agua para asegurar una hidrataci\u00f3n adecuada durante la caminata.<br></p>",
+      "route_name":"Ascenso directo - ruta tradicional",
+      "slope":"850 m",
+      "stars":5,
+      "start_location":"6JV5+W6C Mesa de las Tablas, Coahuila",
+      "stuff":"<h4>Ropa:</h4><ul><li>\ud83e\udd7e Botas de senderismo con buen agarre o zapatos tenis adecuados para terrenos irregulares.</li><li>\ud83d\udc56 Parte inferior: pantal\u00f3n de monta\u00f1a resistente y c\u00f3modo.</li><li>\ud83e\udde5 Parte superior: Camiseta de manga larga de material sint\u00e9tico (evitar algod\u00f3n) para protecci\u00f3n solar y transpirabilidad. Llevar una chamarra rompevientos o una capa adicional en caso de cambios de clima.</li><li>\ud83e\udde6 Calcetines c\u00f3modos y adecuados para caminatas largas.</li><li>\ud83d\udc63 U\u00f1as de los pies bien cortadas para prevenir molestias durante el ascenso.</li></ul><h4>Accesorios:</h4><ul><li>\ud83c\udf92 Mochila de campismo de 10-30 litros para llevar tus pertenencias c\u00f3modamente.</li><li>\ud83e\udde2 Gorra para protegerse del sol, lentes de sol y un buff o pa\u00f1uelo multifuncional para proteger el cuello y la cara.</li><li>\ud83d\udcf1 Celular con bater\u00eda completamente cargada y bater\u00eda port\u00e1til para emergencias.</li><li>\ud83d\udc8a Medicamentos personales (en caso de necesitarlos).</li><li>\ud83d\udd26 Linterna de mano o linterna frontal con pilas de repuesto, ya que la caminata inicia de madrugada.</li><li>\ud83e\uddf4 Bloqueador solar para proteger la piel de los rayos ultravioleta.</li></ul><h4>Alimentos:</h4><ul><li>\ud83c\udf79 2-4 litros de agua para mantenerse bien hidratado durante la caminata (ajustar la cantidad seg\u00fan la temperatura y duraci\u00f3n del recorrido).</li><li>\ud83e\uddc3 1-3 bebidas electrol\u00edticas para reponer sales y minerales perdidos por el esfuerzo f\u00edsico.</li><li>\ud83c\udf30\ud83c\udf6b Snacks energ\u00e9ticos como barras energ\u00e9ticas, chocolates, frutos secos, nueces, almendras, etc., para mantener el nivel de energ\u00eda durante la subida.</li><li>\ud83e\udd6a Un lonche ligero para disfrutar en la cumbre y recuperar fuerzas.</li><li>\ud83e\udeaa\ud83d\udcb8 Identificaci\u00f3n personal y dinero en efectivo en caso de emergencias o necesidades adicionales.</li></ul><p>Adem\u00e1s de esta lista, es importante informarse sobre la ruta, la dificultad del sendero, las condiciones clim\u00e1ticas previstas y cualquier otra precauci\u00f3n espec\u00edfica para el cerro. Siempre es recomendable contar con un plan de ruta detallado, notificar a alguien sobre tus planes y, si es posible, subir en compa\u00f1\u00eda de otras personas para mayor seguridad.<br></p>",
+      "synchronized":false,
+      "things_to_take":[
+         1,
+         2,
+         3,
+         4
+      ],
+      "validate_by_staff":"",
+      "warnings":[
+         1,
+         2,
+         7,
+         8
+      ],
+      "wikiloc":"https://es.wikiloc.com/rutas-senderismo/el-coahuilon-ascenso-tradicional-88120512",
+      "youtube_video":"https://youtu.be/1xze83XEcLA"
    }
    
 ]

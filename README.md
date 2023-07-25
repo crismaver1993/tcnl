@@ -42,6 +42,7 @@ Información para app de TCNL
 19. Cerro Agujerado - Juárez, Nuevo León
 20. Mirador del Fraile - García, Nuevo León
 21. Cascada el Chipitín - Las adjuntas, Nuevo León
+22. El Coahuilón- Arteaga, Cohuila
 
 # Warning List
 
