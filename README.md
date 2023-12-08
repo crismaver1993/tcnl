@@ -27,7 +27,7 @@ Información para app de TCNL
 4. La Marta - Los Oyameles, Coah
 5. El Teleferico - Guadalupe, Nuevo León
 6. Nido de los Aguiluchos  - Santa Catarina, Nuevo León
-7. Pico Udem - San pedro GG, Nuevo León
+7. Pico Udem - San Pedro GG, Nuevo León
 8. Cerro de Schoenstatt- Monterrey, Nuevo León
 9. Nariz de Moody - Rayones, Nuevo León
 10. Puerto Gringo - Santiago, Nuevo León
@@ -36,13 +36,20 @@ Información para app de TCNL
 13. Mota Grande- García, Nuevo León 
 14. Pico Piquin- Monterrey, Nuevo León 
 15. Cueva de la Virgen - Santa Catarina, Nuevo León 
-16. Cerro El Ovni - Icamole, Garc, Nuevo León 
-17. Cerro El Potosí - Galeana, Nuevo León 
-18. Cerro La Nieves - Arteaga,Cohuila
+16. Cerro El Ovni - Icamole, García, Nuevo León 
+17. Cerro El Potosí - Galeana, Nuevo León
+18. Pico San Miguel - García, Nuevo León (pendiente)
 19. Cerro Agujerado - Juárez, Nuevo León
 20. Mirador del Fraile - García, Nuevo León
 21. Cascada el Chipitín - Las adjuntas, Nuevo León
 22. El Coahuilón- Arteaga, Cohuila
+23. Cerro La Nieves - Arteaga,Cohuila 
+24. Pico Perico - Monterrey, Nuevo León (Pendiente)
+25. La Batea - Santiago Nuevo León (Pendiente)
+26. Aguja Inferior - Mina, Nuevo León (Pendiente)
+27. El Pinal - San Pedro GG, Nuevo León (Pendiente)
+28. Cañón de San Bartolo - Santa Catarina, Nuevo León (Pendiente)
+29. Pico San Miguel - García, Nuevo León (pendiente)
 
 # Warning List
 
