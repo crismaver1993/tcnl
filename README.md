@@ -44,12 +44,13 @@ Información para app de TCNL
 21. Cascada el Chipitín - Las adjuntas, Nuevo León
 22. El Coahuilón- Arteaga, Cohuila
 23. Cerro La Nieves - Arteaga,Cohuila 
-24. Pico Perico - Monterrey, Nuevo León (Pendiente)
+24. Pico Perico - Monterrey, Nuevo León 
 25. La Batea - Santiago Nuevo León (Pendiente)
 26. Aguja Inferior - Mina, Nuevo León (Pendiente)
 27. El Pinal - San Pedro GG, Nuevo León (Pendiente)
 28. Cañón de San Bartolo - Santa Catarina, Nuevo León (Pendiente)
-29. El Chupón - Monterrey, Nuevo León (Pendiente)
+29. El Chupón - Monterrey, Nuevo León 
+
 
 # Warning List
 
