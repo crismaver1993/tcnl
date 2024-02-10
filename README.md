@@ -49,7 +49,9 @@ Información para app de TCNL
 26. Aguja Inferior - Mina, Nuevo León (Pendiente)
 27. El Pinal - San Pedro GG, Nuevo León (Pendiente)
 28. Cañón de San Bartolo - Santa Catarina, Nuevo León (Pendiente)
-29. El Chupón - Monterrey, Nuevo León 
+29. El Chupón - Monterrey, Nuevo León
+30. El Sapo - Garcia, Nuevo León(Incompleta)
+31. El Paso del Caballero - García, Nuevo León
 
 
 # Warning List
